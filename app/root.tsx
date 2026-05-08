@@ -23,12 +23,56 @@ export const links: Route.LinksFunction = () => [
   },
 ];
 
+export const meta: Route.MetaFunction = () => [
+  { charSet: "utf-8" },
+  { name: "viewport", content: "width=device-width, initial-scale=1" },
+  {
+    name: "description",
+    content:
+      "Real-time KLSE stock quotes and prices. Search for Malaysian listed stocks on Kuala Lumpur Stock Exchange.",
+  },
+  {
+    property: "og:url",
+    content: "https://yourdomain.com",
+  },
+  {
+    property: "og:type",
+    content: "website",
+  },
+  {
+    property: "og:title",
+    content: "KLSE Stock Quotes - Check Malaysia's Listed Stock Prices",
+  },
+  {
+    property: "og:description",
+    content:
+      "Real-time KLSE stock quotes and prices for Malaysia's listed companies.",
+  },
+  {
+    name: "twitter:card",
+    content: "summary_large_image",
+  },
+  {
+    name: "twitter:title",
+    content: "KLSE Stock Quotes",
+  },
+  {
+    name: "twitter:description",
+    content: "Real-time KLSE stock quotes and prices for Malaysia's listed companies.",
+  },
+];
+
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="description"
+          content="Real-time KLSE stock quotes and prices for Malaysia's listed companies. Search for Malaysian listed stocks on Kuala Lumpur Stock Exchange."
+        />
+        <link rel="canonical" href="https://yourdomain.com" />
         <Meta />
         <Links />
       </head>
