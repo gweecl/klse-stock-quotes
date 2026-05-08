@@ -1,6 +1,7 @@
 {
   "name": "klse-stock-quotes",
-  "private": true,
+  "homepage": "https://gweecl.github.io/klse-stock-quotes/",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "build": "react-router build",
