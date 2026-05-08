@@ -33,7 +33,7 @@ export const meta: Route.MetaFunction = () => [
   },
   {
     property: "og:url",
-    content: "https://yourdomain.com",
+    content: "https://gweecl.github.io/klse-stock-quotes/",
   },
   {
     property: "og:type",
@@ -72,7 +72,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           name="description"
           content="Real-time KLSE stock quotes and prices for Malaysia's listed companies. Search for Malaysian listed stocks on Kuala Lumpur Stock Exchange."
         />
-        <link rel="canonical" href="https://yourdomain.com" />
+        <link rel="canonical" href="https://gweecl.github.io/klse-stock-quotes/" />
         <Meta />
         <Links />
       </head>
