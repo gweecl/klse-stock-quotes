@@ -11,6 +11,8 @@ import type { Route } from "./+types/root";
 import "./app.css";
 
 export const links: Route.LinksFunction = () => [
+  { rel: "icon", href: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>" },
+  { rel: "canonical", href: "https://gweecl.github.io/klse-stock-quotes/" },
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   {
     rel: "preconnect",
@@ -66,31 +68,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta
-          name="description"
-          content="Real-time KLSE stock quotes and prices for Malaysia's listed companies. Search for Malaysian listed stocks on Kuala Lumpur Stock Exchange."
-        />
-        <link rel="canonical" href="https://gweecl.github.io/klse-stock-quotes/" />
-        {/* GitHub Pages SPA fallback adapted from https://github.com/rafgraph/spa-github-pages */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function (l) {
-  if (l.search[1] === "/") {
-    var decoded = l.search
-      .slice(1)
-      .split("&")
-      .map(function (s) {
-        return s.replace(/~and~/g, "&");
-      })
-      .join("?");
-
-    window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
-  }
-}(window.location));`,
-          }}
-        />
         <Meta />
         <Links />
       </head>

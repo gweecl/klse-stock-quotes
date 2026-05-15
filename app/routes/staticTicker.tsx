@@ -1,15 +1,14 @@
-import type { Route } from "./+types/ticker.$exchangeTicker";
+import type { Route } from "./+types/staticTicker";
 import { fetchStockDetailsClient } from "../lib/browser-scraper";
 
-export async function clientLoader({
-  params,
-}: Route.ClientLoaderArgs) {
+export async function clientLoader({ request }: Route.ClientLoaderArgs) {
   try {
-    const { exchangeTicker } = params;
+    const url = new URL(request.url);
+    const ticker = url.searchParams.get("ticker")?.trim();
 
-    if (!exchangeTicker) {
+    if (!ticker) {
       return new Response(
-        JSON.stringify({ error: "Missing exchangeTicker parameter" }),
+        JSON.stringify({ error: "Missing ticker query parameter" }),
         {
           status: 400,
           headers: {
@@ -19,7 +18,7 @@ export async function clientLoader({
       );
     }
 
-    const stockDetails = await fetchStockDetailsClient(exchangeTicker);
+    const stockDetails = await fetchStockDetailsClient(ticker);
     return new Response(JSON.stringify(stockDetails), {
       headers: {
         "Content-Type": "application/json",
@@ -39,7 +38,7 @@ export async function clientLoader({
   }
 }
 
-export default function TickerRoute({ loaderData }: Route.ComponentProps) {
+export default function StaticTickerRoute({ loaderData }: Route.ComponentProps) {
   const { name, ticker, lastPrice, timestamp, error } = loaderData;
 
   if (error) {

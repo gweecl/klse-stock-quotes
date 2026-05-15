@@ -1,0 +1,5287 @@
+[
+  {
+    "stockName": "SUPERCOMNET TECHNOLOGIES BERHAD",
+    "stockTicker": "SCOMNET",
+    "stockCode": "0001"
+  },
+  {
+    "stockName": "BRITE-TECH BERHAD",
+    "stockTicker": "BTECH",
+    "stockCode": "0011"
+  },
+  {
+    "stockName": "ARTRONIQ BERHAD",
+    "stockTicker": "ARTRONIQ",
+    "stockCode": "0038"
+  },
+  {
+    "stockName": "7-ELEVEN MALAYSIA HOLDINGS BERHAD",
+    "stockTicker": "SEM",
+    "stockCode": "5250"
+  },
+  {
+    "stockName": "ABF MALAYSIA BOND INDEX FUND",
+    "stockTicker": "ABFMY1",
+    "stockCode": "0800EA"
+  },
+  {
+    "stockName": "ANCOM LOGISTICS BERHAD",
+    "stockTicker": "ANCOMLB",
+    "stockCode": "0048"
+  },
+  {
+    "stockName": "CUSCAPI BERHAD",
+    "stockTicker": "CUSCAPI",
+    "stockCode": "0051"
+  },
+  {
+    "stockName": "ASDION BERHAD",
+    "stockTicker": "ASDION",
+    "stockCode": "0068"
+  },
+  {
+    "stockName": "AT SYSTEMATIZATION BERHAD",
+    "stockTicker": "ERDASAN",
+    "stockCode": "0072"
+  },
+  {
+    "stockName": "ALDRICH RESOURCES BERHAD",
+    "stockTicker": "ALRICH",
+    "stockCode": "0079"
+  },
+  {
+    "stockName": "BAHVEST RESOURCES BERHAD",
+    "stockTicker": "AUMAS",
+    "stockCode": "0098"
+  },
+  {
+    "stockName": "ASIA POLY HOLDINGS BERHAD",
+    "stockTicker": "ASIAPLY",
+    "stockCode": "0105"
+  },
+  {
+    "stockName": "APPASIA BERHAD",
+    "stockTicker": "APPASIA",
+    "stockCode": "0119"
+  },
+  {
+    "stockName": "ADVANCE INFORMATION MARKETING BERHAD",
+    "stockTicker": "AIM",
+    "stockCode": "0122"
+  },
+  {
+    "stockName": "DGB ASIA BERHAD",
+    "stockTicker": "DGB",
+    "stockCode": "0152"
+  },
+  {
+    "stockName": "CAREPLUS GROUP BERHAD",
+    "stockTicker": "CAREPLS",
+    "stockCode": "0163"
+  },
+  {
+    "stockName": "BM GREENTECH BERHAD",
+    "stockTicker": "BMGREEN",
+    "stockCode": "0168"
+  },
+  {
+    "stockName": "CATCHA DIGITAL BERHAD",
+    "stockTicker": "CATCHA",
+    "stockCode": "0173"
+  },
+  {
+    "stockName": "BIOALPHA HOLDINGS BERHAD",
+    "stockTicker": "BIOHLDG",
+    "stockCode": "0179"
+  },
+  {
+    "stockName": "AEMULUS HOLDINGS BERHAD",
+    "stockTicker": "AEMULUS",
+    "stockCode": "0181"
+  },
+  {
+    "stockName": "BCM ALLIANCE BERHAD",
+    "stockTicker": "BCMALL",
+    "stockCode": "0187"
+  },
+  {
+    "stockName": "CABNET HOLDINGS BERHAD",
+    "stockTicker": "CABNET",
+    "stockCode": "0191"
+  },
+  {
+    "stockName": "BINASAT COMMUNICATIONS BERHAD",
+    "stockTicker": "BINACOM",
+    "stockCode": "0195"
+  },
+  {
+    "stockName": "AIMFLEX BERHAD",
+    "stockTicker": "AIMFLEX",
+    "stockCode": "0209"
+  },
+  {
+    "stockName": "ACO GROUP BERHAD",
+    "stockTicker": "ACO",
+    "stockCode": "0218"
+  },
+  {
+    "stockName": "ANEKA JARINGAN HOLDINGS BERHAD",
+    "stockTicker": "ANEKA",
+    "stockCode": "0226"
+  },
+  {
+    "stockName": "CEKD BERHAD",
+    "stockTicker": "CEKD",
+    "stockCode": "0238"
+  },
+  {
+    "stockName": "CORAZA INTEGRATED TECHNOLOGY BERHAD",
+    "stockTicker": "CORAZA",
+    "stockCode": "0240"
+  },
+  {
+    "stockName": "CENGILD MEDICAL BERHAD",
+    "stockTicker": "CENGILD",
+    "stockCode": "0243"
+  },
+  {
+    "stockName": "CNERGENZ BERHAD",
+    "stockTicker": "CNERGEN",
+    "stockCode": "0246"
+  },
+  {
+    "stockName": "AGMO HOLDINGS BERHAD",
+    "stockTicker": "AGMO",
+    "stockCode": "0258"
+  },
+  {
+    "stockName": "COSMOS TECHNOLOGY INTERNATIONAL BERHAD",
+    "stockTicker": "COSMOS",
+    "stockCode": "0261"
+  },
+  {
+    "stockName": "BETAMEK BERHAD",
+    "stockTicker": "BETA",
+    "stockCode": "0263"
+  },
+  {
+    "stockName": "AUTOCOUNT DOTCOM BERHAD",
+    "stockTicker": "ADB",
+    "stockCode": "0276"
+  },
+  {
+    "stockName": "CLOUDPOINT TECHNOLOGY BERHAD",
+    "stockTicker": "CLOUDPT",
+    "stockCode": "0277"
+  },
+  {
+    "stockName": "DAYTHREE DIGITAL BERHAD",
+    "stockTicker": "DAY3",
+    "stockCode": "0281"
+  },
+  {
+    "stockName": "DC HEALTHCARE HOLDINGS BERHAD",
+    "stockTicker": "DCHCARE",
+    "stockCode": "0283"
+  },
+  {
+    "stockName": "CRITICAL HOLDINGS BERHAD",
+    "stockTicker": "CHB",
+    "stockCode": "0291"
+  },
+  {
+    "stockName": "AGX GROUP BERHAD",
+    "stockTicker": "AGX",
+    "stockCode": "0299"
+  },
+  {
+    "stockName": "ALPHA IVF GROUP BERHAD",
+    "stockTicker": "ALPHA",
+    "stockCode": "0303"
+  },
+  {
+    "stockName": "AGRICORE CS HOLDINGS BERHAD",
+    "stockTicker": "AGRICOR",
+    "stockCode": "0309"
+  },
+  {
+    "stockName": "BWYS GROUP BERHAD",
+    "stockTicker": "BWYS",
+    "stockCode": "0313"
+  },
+  {
+    "stockName": "AMMB HOLDINGS BERHAD",
+    "stockTicker": "AMBANK",
+    "stockCode": "1015"
+  },
+  {
+    "stockName": "CIMB GROUP HOLDINGS BERHAD",
+    "stockTicker": "CIMB",
+    "stockCode": "1023"
+  },
+  {
+    "stockName": "ALLIANZ MALAYSIA BERHAD",
+    "stockTicker": "ALLIANZ",
+    "stockCode": "1163"
+  },
+  {
+    "stockName": "ADVANCE SYNERGY BERHAD",
+    "stockTicker": "ASB",
+    "stockCode": "1481"
+  },
+  {
+    "stockName": "BURSA MALAYSIA BERHAD",
+    "stockTicker": "BURSA",
+    "stockCode": "1818"
+  },
+  {
+    "stockName": "BATU KAWAN BERHAD",
+    "stockTicker": "BKAWAN",
+    "stockCode": "1899"
+  },
+  {
+    "stockName": "CHIN TECK PLANTATIONS BERHAD",
+    "stockTicker": "CHINTEK",
+    "stockCode": "1929"
+  },
+  {
+    "stockName": "COMFORT GLOVES BERHAD",
+    "stockTicker": "COMFORT",
+    "stockCode": "2127"
+  },
+  {
+    "stockName": "AYER HOLDINGS BERHAD",
+    "stockTicker": "AYER",
+    "stockCode": "2305"
+  },
+  {
+    "stockName": "ALLIANCE BANK MALAYSIA BERHAD",
+    "stockTicker": "ABMB",
+    "stockCode": "2488"
+  },
+  {
+    "stockName": "AJINOMOTO (MALAYSIA) BERHAD",
+    "stockTicker": "AJI",
+    "stockCode": "2658"
+  },
+  {
+    "stockName": "ALCOM GROUP BERHAD",
+    "stockTicker": "ALCOM",
+    "stockCode": "2674"
+  },
+  {
+    "stockName": "C.I. HOLDINGS BERHAD",
+    "stockTicker": "CIHLDG",
+    "stockCode": "2828"
+  },
+  {
+    "stockName": "CARLSBERG BREWERY MALAYSIA BERHAD",
+    "stockTicker": "CARLSBG",
+    "stockCode": "2836"
+  },
+  {
+    "stockName": "CAHYA MATA SARAWAK BERHAD",
+    "stockTicker": "CMSB",
+    "stockCode": "2852"
+  },
+  {
+    "stockName": "CLOUDARON GROUP BERHAD",
+    "stockTicker": "CLOUD",
+    "stockCode": "03001"
+  },
+  {
+    "stockName": "AMLEX HOLDINGS BERHAD",
+    "stockTicker": "AMLEX",
+    "stockCode": "03011"
+  },
+  {
+    "stockName": "BABA ECO GROUP BERHAD",
+    "stockTicker": "BABA",
+    "stockCode": "03012"
+  },
+  {
+    "stockName": "CARLO RINO GROUP BERHAD",
+    "stockTicker": "CRG",
+    "stockCode": "03016"
+  },
+  {
+    "stockName": "CE TECHNOLOGY BERHAD",
+    "stockTicker": "CETECH",
+    "stockCode": "03024"
+  },
+  {
+    "stockName": "ASTRAMINA GROUP BERHAD",
+    "stockTicker": "ASTRA",
+    "stockCode": "03032"
+  },
+  {
+    "stockName": "AURORA ITALIA INTERNATIONAL BERHAD",
+    "stockTicker": "AURORA",
+    "stockCode": "03037"
+  },
+  {
+    "stockName": "BV LAND HOLDINGS BERHAD",
+    "stockTicker": "BVLH",
+    "stockCode": "03042"
+  },
+  {
+    "stockName": "CARZO HOLDINGS BERHAD",
+    "stockTicker": "CARZO",
+    "stockCode": "03048"
+  },
+  {
+    "stockName": "ALPHA OCEAN RESOURCES BERHAD",
+    "stockTicker": "AORB",
+    "stockCode": "03051"
+  },
+  {
+    "stockName": "CC INTERNATIONAL BERHAD",
+    "stockTicker": "CCIB",
+    "stockCode": "03053"
+  },
+  {
+    "stockName": "BERJAYA ASSETS BERHAD",
+    "stockTicker": "BJASSET",
+    "stockCode": "3239"
+  },
+  {
+    "stockName": "BERJAYA CORPORATION BERHAD",
+    "stockTicker": "BJCORP",
+    "stockCode": "3395"
+  },
+  {
+    "stockName": "ASIAN PAC HOLDINGS BERHAD",
+    "stockTicker": "ASIAPAC",
+    "stockCode": "4057"
+  },
+  {
+    "stockName": "BRITISH AMERICAN TOBACCO (MALAYSIA) BERHAD",
+    "stockTicker": "BAT",
+    "stockCode": "4162"
+  },
+  {
+    "stockName": "BERJAYA LAND BERHAD",
+    "stockTicker": "BPROP",
+    "stockCode": "4219"
+  },
+  {
+    "stockName": "DAGANG NEXCHANGE BERHAD",
+    "stockTicker": "DNEX",
+    "stockCode": "4456"
+  },
+  {
+    "stockName": "ANCOM NYLEX BERHAD",
+    "stockTicker": "ANCOMNY",
+    "stockCode": "4758"
+  },
+  {
+    "stockName": "CHIN WELL HOLDINGS BERHAD",
+    "stockTicker": "CHINWEL",
+    "stockCode": "5007"
+  },
+  {
+    "stockName": "APM AUTOMOTIVE HOLDINGS BERHAD",
+    "stockTicker": "APM",
+    "stockCode": "5015"
+  },
+  {
+    "stockName": "AYS VENTURES BERHAD",
+    "stockTicker": "AYS",
+    "stockCode": "5021"
+  },
+  {
+    "stockName": "AURO HOLDINGS BERHAD",
+    "stockTicker": "AURO",
+    "stockCode": "5025"
+  },
+  {
+    "stockName": "BINTULU PORT HOLDINGS BERHAD",
+    "stockTicker": "BIPORT",
+    "stockCode": "5032"
+  },
+  {
+    "stockName": "COMPUGATES HOLDINGS BERHAD",
+    "stockTicker": "COMPUGT",
+    "stockCode": "5037"
+  },
+  {
+    "stockName": "COUNTRY VIEW BERHAD",
+    "stockTicker": "CVIEW",
+    "stockCode": "5049"
+  },
+  {
+    "stockName": "BLD PLANTATION BHD.",
+    "stockTicker": "BLDPLNT",
+    "stockCode": "5069"
+  },
+  {
+    "stockName": "COASTAL CONTRACTS BHD",
+    "stockTicker": "COASTAL",
+    "stockCode": "5071"
+  },
+  {
+    "stockName": "ANNUM BERHAD",
+    "stockTicker": "ANNUM",
+    "stockCode": "5082"
+  },
+  {
+    "stockName": "APEX EQUITY HOLDINGS BERHAD",
+    "stockTicker": "APEX",
+    "stockCode": "5088"
+  },
+  {
+    "stockName": "CSC STEEL HOLDINGS BERHAD",
+    "stockTicker": "CSCSTEL",
+    "stockCode": "5094"
+  },
+  {
+    "stockName": "CAPITAL A BERHAD",
+    "stockTicker": "CAPITALA",
+    "stockCode": "5099"
+  },
+  {
+    "stockName": "BP PLASTICS HOLDING BHD",
+    "stockTicker": "BPPLAS",
+    "stockCode": "5100"
+  },
+  {
+    "stockName": "CITRA NUSA HOLDINGS BERHAD",
+    "stockTicker": "CNH",
+    "stockCode": "5104"
+  },
+  {
+    "stockName": "CAN-ONE BERHAD",
+    "stockTicker": "CANONE",
+    "stockCode": "5105"
+  },
+  {
+    "stockName": "AXIS REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "AXREIT",
+    "stockCode": "5106"
+  },
+  {
+    "stockName": "ALAM MARITIM RESOURCES BERHAD",
+    "stockTicker": "ALAM",
+    "stockCode": "5115"
+  },
+  {
+    "stockName": "AL-'AQAR HEALTHCARE REIT",
+    "stockTicker": "ALAQAR",
+    "stockCode": "5116"
+  },
+  {
+    "stockName": "AMFIRST REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "AMFIRST",
+    "stockCode": "5120"
+  },
+  {
+    "stockName": "AMANAHRAYA REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "ARREIT",
+    "stockCode": "5127"
+  },
+  {
+    "stockName": "ATRIUM REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "ATRIUM",
+    "stockCode": "5130"
+  },
+  {
+    "stockName": "DELEUM BERHAD",
+    "stockTicker": "DELEUM",
+    "stockCode": "5132"
+  },
+  {
+    "stockName": "AEON CREDIT SERVICE (M) BERHAD",
+    "stockTicker": "AEONCR",
+    "stockCode": "5139"
+  },
+  {
+    "stockName": "DAYANG ENTERPRISE HOLDINGS BERHAD",
+    "stockTicker": "DAYANG",
+    "stockCode": "5141"
+  },
+  {
+    "stockName": "DFCITY GROUP BERHAD",
+    "stockTicker": "DFCITY",
+    "stockCode": "5165"
+  },
+  {
+    "stockName": "CYBERJAYA EDUCATION GROUP BERHAD",
+    "stockTicker": "CYBERE",
+    "stockCode": "5166"
+  },
+  {
+    "stockName": "CAPITALAND MALAYSIA TRUST",
+    "stockTicker": "CLMT",
+    "stockCode": "5180"
+  },
+  {
+    "stockName": "AVALAND BERHAD",
+    "stockTicker": "AVALAND",
+    "stockCode": "5182"
+  },
+  {
+    "stockName": "CYPARK RESOURCES BERHAD",
+    "stockTicker": "CYPARK",
+    "stockCode": "5184"
+  },
+  {
+    "stockName": "AFFIN BANK BERHAD",
+    "stockTicker": "AFFIN",
+    "stockCode": "5185"
+  },
+  {
+    "stockName": "CHINA OUHUA WINERY HOLDINGS LIMITED",
+    "stockTicker": "CNOUHUA",
+    "stockCode": "5188"
+  },
+  {
+    "stockName": "BENALEC HOLDINGS BERHAD",
+    "stockTicker": "BENALEC",
+    "stockCode": "5190"
+  },
+  {
+    "stockName": "CENSOF HOLDINGS BERHAD",
+    "stockTicker": "CENSOF",
+    "stockCode": "5195"
+  },
+  {
+    "stockName": "BERJAYA FOOD BERHAD",
+    "stockTicker": "BJFOOD",
+    "stockCode": "5196"
+  },
+  {
+    "stockName": "ABM FUJIYA BERHAD",
+    "stockTicker": "AFUJIYA",
+    "stockCode": "5198"
+  },
+  {
+    "stockName": "AWANBIRU TECHNOLOGY BERHAD",
+    "stockTicker": "AWANTEC",
+    "stockCode": "5204"
+  },
+  {
+    "stockName": "BUMI ARMADA BERHAD",
+    "stockTicker": "ARMADA",
+    "stockCode": "5210"
+  },
+  {
+    "stockName": "DATASONIC GROUP BERHAD",
+    "stockTicker": "NEXG",
+    "stockCode": "5216"
+  },
+  {
+    "stockName": "AIRASIA X BERHAD",
+    "stockTicker": "AAX",
+    "stockCode": "5238"
+  },
+  {
+    "stockName": "BERMAZ AUTO BERHAD",
+    "stockTicker": "BAUTO",
+    "stockCode": "5248"
+  },
+  {
+    "stockName": "CARIMIN PETROLEUM BERHAD",
+    "stockTicker": "CARIMIN",
+    "stockCode": "5257"
+  },
+  {
+    "stockName": "BANK ISLAM MALAYSIA BERHAD",
+    "stockTicker": "BIMB",
+    "stockCode": "5258"
+  },
+  {
+    "stockName": "AL-SALAM REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "ALSREIT",
+    "stockCode": "5269"
+  },
+  {
+    "stockName": "CHIN HIN GROUP BERHAD",
+    "stockTicker": "CHINHIN",
+    "stockCode": "5273"
+  },
+  {
+    "stockName": "DANCOMECH HOLDINGS BERHAD",
+    "stockTicker": "DANCO",
+    "stockCode": "5276"
+  },
+  {
+    "stockName": "ADVANCECON HOLDINGS BERHAD",
+    "stockTicker": "ADVCON",
+    "stockCode": "5281"
+  },
+  {
+    "stockName": "AME ELITE CONSORTIUM BERHAD",
+    "stockTicker": "AME",
+    "stockCode": "5293"
+  },
+  {
+    "stockName": "CTOS DIGITAL BERHAD",
+    "stockTicker": "CTOS",
+    "stockCode": "5301"
+  },
+  {
+    "stockName": "AURELIUS TECHNOLOGIES BERHAD",
+    "stockTicker": "ATECH",
+    "stockCode": "5302"
+  },
+  {
+    "stockName": "AME REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "AMEREIT",
+    "stockCode": "5307"
+  },
+  {
+    "stockName": "CAPE EMS BERHAD",
+    "stockTicker": "CEB",
+    "stockCode": "5311"
+  },
+  {
+    "stockName": "CPE TECHNOLOGY BERHAD",
+    "stockTicker": "CPETECH",
+    "stockCode": "5317"
+  },
+  {
+    "stockName": "APB RESOURCES BERHAD",
+    "stockTicker": "APB",
+    "stockCode": "5568"
+  },
+  {
+    "stockName": "COUNTRY HEIGHTS HOLDINGS BHD",
+    "stockTicker": "CHHB",
+    "stockCode": "5738"
+  },
+  {
+    "stockName": "CHOO BEE METAL INDUSTRIES BHD",
+    "stockTicker": "CHOOBEE",
+    "stockCode": "5797"
+  },
+  {
+    "stockName": "BINA PURI HOLDINGS BHD",
+    "stockTicker": "BPURI",
+    "stockCode": "5932"
+  },
+  {
+    "stockName": "BINA DARULAMAN BERHAD",
+    "stockTicker": "BDB",
+    "stockCode": "6173"
+  },
+  {
+    "stockName": "BOX-PAK (MALAYSIA) BERHAD",
+    "stockTicker": "BOXPAK",
+    "stockCode": "6297"
+  },
+  {
+    "stockName": "AMWAY (MALAYSIA) HOLDINGS BERHAD",
+    "stockTicker": "AMWAY",
+    "stockCode": "6351"
+  },
+  {
+    "stockName": "ASTRO MALAYSIA HOLDINGS BERHAD",
+    "stockTicker": "ASTRO",
+    "stockCode": "6399"
+  },
+  {
+    "stockName": "APOLLO FOOD HOLDINGS BERHAD",
+    "stockTicker": "APOLLO",
+    "stockCode": "6432"
+  },
+  {
+    "stockName": "ANN JOO RESOURCES BERHAD",
+    "stockTicker": "ANNJOO",
+    "stockCode": "6556"
+  },
+  {
+    "stockName": "AEON CO. (M) BHD",
+    "stockTicker": "AEON",
+    "stockCode": "6599"
+  },
+  {
+    "stockName": "BCB BERHAD",
+    "stockTicker": "BCB",
+    "stockCode": "6602"
+  },
+  {
+    "stockName": "CRESCENDO CORPORATION BERHAD",
+    "stockTicker": "CRESNDO",
+    "stockCode": "6718"
+  },
+  {
+    "stockName": "AXIATA GROUP BERHAD",
+    "stockTicker": "AXIATA",
+    "stockCode": "6888"
+  },
+  {
+    "stockName": "CELCOMDIGI BERHAD",
+    "stockTicker": "CDB",
+    "stockCode": "6947"
+  },
+  {
+    "stockName": "BINTAI KINDEN CORPORATION BERHAD",
+    "stockTicker": "BINTAI",
+    "stockCode": "6998"
+  },
+  {
+    "stockName": "B.I.G. INDUSTRIES BERHAD",
+    "stockTicker": "BIG",
+    "stockCode": "7005"
+  },
+  {
+    "stockName": "ARK RESOURCES HOLDINGS BERHAD",
+    "stockTicker": "ARK",
+    "stockCode": "7007"
+  },
+  {
+    "stockName": "CHUAN HUAT RESOURCES BHD",
+    "stockTicker": "CHUAN",
+    "stockCode": "7016"
+  },
+  {
+    "stockName": "CME GROUP BERHAD",
+    "stockTicker": "CME",
+    "stockCode": "7018"
+  },
+  {
+    "stockName": "ASTEEL GROUP BERHAD",
+    "stockTicker": "ASTEEL",
+    "stockCode": "7020"
+  },
+  {
+    "stockName": "AMTEL HOLDINGS BERHAD",
+    "stockTicker": "AMTEL",
+    "stockCode": "7031"
+  },
+  {
+    "stockName": "CCK CONSOLIDATED HOLDINGS BERHAD",
+    "stockTicker": "CCK",
+    "stockCode": "7035"
+  },
+  {
+    "stockName": "BORNEO OIL BERHAD",
+    "stockTicker": "BORNOIL",
+    "stockCode": "7036"
+  },
+  {
+    "stockName": "ATLAN HOLDINGS BHD",
+    "stockTicker": "ATLAN",
+    "stockCode": "7048"
+  },
+  {
+    "stockName": "ASTRAL ASIA BERHAD",
+    "stockTicker": "AASIA",
+    "stockCode": "7054"
+  },
+  {
+    "stockName": "CB INDUSTRIAL PRODUCT HOLDING BERHAD",
+    "stockTicker": "CBIP",
+    "stockCode": "7076"
+  },
+  {
+    "stockName": "AHMAD ZAKI RESOURCES BERHAD",
+    "stockTicker": "AZRB",
+    "stockCode": "7078"
+  },
+  {
+    "stockName": "ANALABS RESOURCES BERHAD",
+    "stockTicker": "ANALABS",
+    "stockCode": "7083"
+  },
+  {
+    "stockName": "ABLEGROUP BERHAD",
+    "stockTicker": "ABLEGRP",
+    "stockCode": "7086"
+  },
+  {
+    "stockName": "APEX HEALTHCARE BERHAD",
+    "stockTicker": "AHEALTH",
+    "stockCode": "7090"
+  },
+  {
+    "stockName": "CJ CENTURY LOGISTICS HOLDINGS BERHAD",
+    "stockTicker": "CJCEN",
+    "stockCode": "7117"
+  },
+  {
+    "stockName": "AXTERIA GROUP BERHAD",
+    "stockTicker": "AXTERIA",
+    "stockCode": "7120"
+  },
+  {
+    "stockName": "CAM RESOURCES BERHAD",
+    "stockTicker": "CAMRES",
+    "stockCode": "7128"
+  },
+  {
+    "stockName": "ASIA FILE CORPORATION BHD",
+    "stockTicker": "ASIAFLE",
+    "stockCode": "7129"
+  },
+  {
+    "stockName": "ACME HOLDINGS BERHAD",
+    "stockTicker": "ACME",
+    "stockCode": "7131"
+  },
+  {
+    "stockName": "AGESON BERHAD",
+    "stockTicker": "TXCD",
+    "stockCode": "7145"
+  },
+  {
+    "stockName": "AE MULTI HOLDINGS BERHAD",
+    "stockTicker": "AEM",
+    "stockCode": "7146"
+  },
+  {
+    "stockName": "CLASSITA HOLDINGS BERHAD",
+    "stockTicker": "NEXGBINA",
+    "stockCode": "7154"
+  },
+  {
+    "stockName": "CYL CORPORATION BERHAD",
+    "stockTicker": "CYL",
+    "stockCode": "7157"
+  },
+  {
+    "stockName": "ASTINO BERHAD",
+    "stockTicker": "ASTINO",
+    "stockCode": "7162"
+  },
+  {
+    "stockName": "ABLE GLOBAL BERHAD",
+    "stockTicker": "ABLEGLOB",
+    "stockCode": "7167"
+  },
+  {
+    "stockName": "CAB CAKARAN CORPORATION BERHAD",
+    "stockTicker": "CAB",
+    "stockCode": "7174"
+  },
+  {
+    "stockName": "ARB BERHAD",
+    "stockTicker": "ARBB",
+    "stockCode": "7181"
+  },
+  {
+    "stockName": "CHIN HIN GROUP PROPERTY BERHAD",
+    "stockTicker": "CHGP",
+    "stockCode": "7187"
+  },
+  {
+    "stockName": "BTM RESOURCES BERHAD",
+    "stockTicker": "BTM",
+    "stockCode": "7188"
+  },
+  {
+    "stockName": "ADVENTA BERHAD",
+    "stockTicker": "ADVENTA",
+    "stockCode": "7191"
+  },
+  {
+    "stockName": "BINASTRA CORPORATION BERHAD",
+    "stockTicker": "BNASTRA",
+    "stockCode": "7195"
+  },
+  {
+    "stockName": "D & O GREEN TECHNOLOGIES BERHAD",
+    "stockTicker": "D&O",
+    "stockCode": "7204"
+  },
+  {
+    "stockName": "CHEETAH HOLDINGS BERHAD",
+    "stockTicker": "CHEETAH",
+    "stockCode": "7209"
+  },
+  {
+    "stockName": "DESTINI BERHAD",
+    "stockTicker": "DESTINI",
+    "stockCode": "7212"
+  },
+  {
+    "stockName": "A-RANK BERHAD",
+    "stockTicker": "ARANK",
+    "stockCode": "7214"
+  },
+  {
+    "stockName": "ARKA BERHAD",
+    "stockTicker": "ARKA",
+    "stockCode": "7218"
+  },
+  {
+    "stockName": "BSL CORPORATION BERHAD",
+    "stockTicker": "BSLCORP",
+    "stockCode": "7221"
+  },
+  {
+    "stockName": "CITAGLOBAL BERHAD",
+    "stockTicker": "CITAGLB",
+    "stockCode": "7245"
+  },
+  {
+    "stockName": "BARAKAH OFFSHORE PETROLEUM BERHAD",
+    "stockTicker": "BARAKAH",
+    "stockCode": "7251"
+  },
+  {
+    "stockName": "DIALOG GROUP BERHAD",
+    "stockTicker": "DIALOG",
+    "stockCode": "7277"
+  },
+  {
+    "stockName": "AHB HOLDINGS BERHAD",
+    "stockTicker": "AHB",
+    "stockCode": "7315"
+  },
+  {
+    "stockName": "AWC BERHAD",
+    "stockTicker": "AWC",
+    "stockCode": "7579"
+  },
+  {
+    "stockName": "AJIYA BERHAD",
+    "stockTicker": "AJIYA",
+    "stockCode": "7609"
+  },
+  {
+    "stockName": "BESHOM HOLDINGS BERHAD",
+    "stockTicker": "BESHOM",
+    "stockCode": "7668"
+  },
+  {
+    "stockName": "ASIA BRANDS BERHAD",
+    "stockTicker": "ASIABRN",
+    "stockCode": "7722"
+  },
+  {
+    "stockName": "CN ASIA CORPORATION BHD",
+    "stockTicker": "CNASIA",
+    "stockCode": "7986"
+  },
+  {
+    "stockName": "COMPUTER FORMS (MALAYSIA) BERHAD",
+    "stockTicker": "CFM",
+    "stockCode": "8044"
+  },
+  {
+    "stockName": "CENTRAL GLOBAL BERHAD",
+    "stockTicker": "CGB",
+    "stockCode": "8052"
+  },
+  {
+    "stockName": "BOUSTEAD HEAVY INDUSTRIES CORPORATION BHD",
+    "stockTicker": "BHIC",
+    "stockCode": "8133"
+  },
+  {
+    "stockName": "ATA IMS BERHAD",
+    "stockTicker": "WAVEFRNT",
+    "stockCode": "8176"
+  },
+  {
+    "stockName": "DATAPREP HOLDINGS BHD",
+    "stockTicker": "DATAPRP",
+    "stockCode": "8338"
+  },
+  {
+    "stockName": "CONCRETE ENGINEERING PRODUCTS BERHAD",
+    "stockTicker": "CEPCO",
+    "stockCode": "8435"
+  },
+  {
+    "stockName": "CREST BUILDER HOLDINGS BERHAD",
+    "stockTicker": "CRESBLD",
+    "stockCode": "8591"
+  },
+  {
+    "stockName": "AVILLION BERHAD",
+    "stockTicker": "AVI",
+    "stockCode": "8885"
+  },
+  {
+    "stockName": "CEPATWAWASAN GROUP BERHAD",
+    "stockTicker": "CEPAT",
+    "stockCode": "8982"
+  },
+  {
+    "stockName": "BONIA CORPORATION BERHAD",
+    "stockTicker": "BONIA",
+    "stockCode": "9288"
+  },
+  {
+    "stockName": "CWG HOLDINGS BERHAD",
+    "stockTicker": "CWG",
+    "stockCode": "9423"
+  },
+  {
+    "stockName": "BERTAM ALLIANCE BERHAD",
+    "stockTicker": "BERTAM",
+    "stockCode": "9814"
+  },
+  {
+    "stockName": "DANAINFRA NASIONAL BERHAD",
+    "stockTicker": "DIN045801028",
+    "stockCode": "0400GB"
+  },
+  {
+    "stockName": "DIGISTAR CORPORATION BERHAD",
+    "stockTicker": "DIGISTA",
+    "stockCode": "0029"
+  },
+  {
+    "stockName": "ECOBUILT HOLDINGS BERHAD",
+    "stockTicker": "ECOHLDS",
+    "stockCode": "0059"
+  },
+  {
+    "stockName": "EFFICIENT E-SOLUTIONS BERHAD",
+    "stockTicker": "EFFICEN",
+    "stockCode": "0064"
+  },
+  {
+    "stockName": "EXCEL FORCE MSC BERHAD",
+    "stockTicker": "EFORCE",
+    "stockCode": "0065"
+  },
+  {
+    "stockName": "ELSOFT RESEARCH BERHAD",
+    "stockTicker": "ELSOFT",
+    "stockCode": "0090"
+  },
+  {
+    "stockName": "ES CERAMICS TECHNOLOGY BHD",
+    "stockTicker": "ESCERAM",
+    "stockCode": "0100"
+  },
+  {
+    "stockName": "EDUSPEC HOLDINGS BERHAD",
+    "stockTicker": "EDUSPEC",
+    "stockCode": "0107"
+  },
+  {
+    "stockName": "DIVFEX BERHAD",
+    "stockTicker": "DFX",
+    "stockCode": "0131"
+  },
+  {
+    "stockName": "EA HOLDINGS BERHAD",
+    "stockTicker": "EAH",
+    "stockCode": "0154"
+  },
+  {
+    "stockName": "EVD BERHAD",
+    "stockTicker": "EVD",
+    "stockCode": "0174"
+  },
+  {
+    "stockName": "EVERSAFE RUBBER BERHAD",
+    "stockTicker": "ESAFE",
+    "stockCode": "0190"
+  },
+  {
+    "stockName": "DPI HOLDINGS BERHAD",
+    "stockTicker": "DPIH",
+    "stockCode": "0205"
+  },
+  {
+    "stockName": "ECONFRAME BERHAD",
+    "stockTicker": "EFRAME",
+    "stockCode": "0227"
+  },
+  {
+    "stockName": "ECOMATE HOLDINGS BERHAD",
+    "stockTicker": "ECOMATE",
+    "stockCode": "0239"
+  },
+  {
+    "stockName": "ECOSCIENCE INTERNATIONAL BERHAD",
+    "stockTicker": "EIB",
+    "stockCode": "0255"
+  },
+  {
+    "stockName": "ECA INTEGRATED SOLUTION BERHAD",
+    "stockTicker": "ECA",
+    "stockCode": "0267"
+  },
+  {
+    "stockName": "DS SIGMA HOLDINGS BERHAD",
+    "stockTicker": "DSS",
+    "stockCode": "0269"
+  },
+  {
+    "stockName": "EDELTEQ HOLDINGS BERHAD",
+    "stockTicker": "EDELTEQ",
+    "stockCode": "0278"
+  },
+  {
+    "stockName": "EVERGREEN MAX CASH CAPITAL BERHAD",
+    "stockTicker": "EMCC",
+    "stockCode": "0286"
+  },
+  {
+    "stockName": "DRB-HICOM BERHAD",
+    "stockTicker": "DRBHCOM",
+    "stockCode": "1619"
+  },
+  {
+    "stockName": "ECM LIBRA GROUP BERHAD",
+    "stockTicker": "ECM",
+    "stockCode": "2143"
+  },
+  {
+    "stockName": "EQUITIESTRACKER HOLDINGS BERHAD",
+    "stockTicker": "ETH",
+    "stockCode": "03021"
+  },
+  {
+    "stockName": "ENEST GROUP BERHAD",
+    "stockTicker": "ENEST",
+    "stockCode": "03025"
+  },
+  {
+    "stockName": "DUTCH LADY MILK INDUSTRIES BERHAD",
+    "stockTicker": "DLADY",
+    "stockCode": "3026"
+  },
+  {
+    "stockName": "DYNAFRONT HOLDINGS BERHAD",
+    "stockTicker": "DYNAFNT",
+    "stockCode": "03046"
+  },
+  {
+    "stockName": "DSR TAIKO BERHAD",
+    "stockTicker": "DSR",
+    "stockCode": "03055"
+  },
+  {
+    "stockName": "EASTERN & ORIENTAL BERHAD",
+    "stockTicker": "E&O",
+    "stockCode": "3417"
+  },
+  {
+    "stockName": "ECOFIRST CONSOLIDATED BHD",
+    "stockTicker": "ECOFIRS",
+    "stockCode": "3557"
+  },
+  {
+    "stockName": "DUTALAND BERHAD",
+    "stockTicker": "DUTALND",
+    "stockCode": "3948"
+  },
+  {
+    "stockName": "EPICON BERHAD",
+    "stockTicker": "EPICON",
+    "stockCode": "4847"
+  },
+  {
+    "stockName": "EDARAN BERHAD",
+    "stockTicker": "EDARAN",
+    "stockCode": "5036"
+  },
+  {
+    "stockName": "ENGTEX GROUP BERHAD",
+    "stockTicker": "ENGTEX",
+    "stockCode": "5056"
+  },
+  {
+    "stockName": "ESTHETICS INTERNATIONAL GROUP BERHAD",
+    "stockTicker": "EIG",
+    "stockCode": "5081"
+  },
+  {
+    "stockName": "EVERGREEN FIBREBOARD BERHAD",
+    "stockTicker": "EVERGRN",
+    "stockCode": "5101"
+  },
+  {
+    "stockName": "EVERSENDAI CORPORATION BERHAD",
+    "stockTicker": "SENDAI",
+    "stockCode": "5205"
+  },
+  {
+    "stockName": "EITA RESOURCES BERHAD",
+    "stockTicker": "EITA",
+    "stockCode": "5208"
+  },
+  {
+    "stockName": "ELK-DESA RESOURCES BERHAD",
+    "stockTicker": "ELKDESA",
+    "stockCode": "5228"
+  },
+  {
+    "stockName": "ECONPILE HOLDINGS BERHAD",
+    "stockTicker": "ECONBHD",
+    "stockCode": "5253"
+  },
+  {
+    "stockName": "E.A.TECHNIQUE (M) BERHAD",
+    "stockTicker": "AVANGAAD",
+    "stockCode": "5259"
+  },
+  {
+    "stockName": "DOLPHIN INTERNATIONAL BERHAD",
+    "stockTicker": "OASIS",
+    "stockCode": "5265"
+  },
+  {
+    "stockName": "ECO WORLD INTERNATIONAL BERHAD",
+    "stockTicker": "EWICAP",
+    "stockCode": "5283"
+  },
+  {
+    "stockName": "DXN HOLDINGS BHD.",
+    "stockTicker": "DXN",
+    "stockCode": "5318"
+  },
+  {
+    "stockName": "DKSH HOLDINGS (MALAYSIA) BERHAD",
+    "stockTicker": "DKSH",
+    "stockCode": "5908"
+  },
+  {
+    "stockName": "ENCORP BERHAD",
+    "stockTicker": "ENCORP",
+    "stockCode": "6076"
+  },
+  {
+    "stockName": "EUPE CORPORATION BERHAD",
+    "stockTicker": "EUPE",
+    "stockCode": "6815"
+  },
+  {
+    "stockName": "EUROSPAN HOLDINGS BERHAD",
+    "stockTicker": "EUROSP",
+    "stockCode": "7094"
+  },
+  {
+    "stockName": "D'NONCE TECHNOLOGY BHD",
+    "stockTicker": "DNONCE",
+    "stockCode": "7114"
+  },
+  {
+    "stockName": "DUOPHARMA BIOTECH BERHAD",
+    "stockTicker": "DPHARMA",
+    "stockCode": "7148"
+  },
+  {
+    "stockName": "ENG KAH CORPORATION BERHAD",
+    "stockTicker": "ENGKAH",
+    "stockCode": "7149"
+  },
+  {
+    "stockName": "DOMINANT ENTERPRISE BERHAD",
+    "stockTicker": "DOMINAN",
+    "stockCode": "7169"
+  },
+  {
+    "stockName": "DPS RESOURCES BERHAD",
+    "stockTicker": "DPS",
+    "stockCode": "7198"
+  },
+  {
+    "stockName": "EURO HOLDINGS BERHAD",
+    "stockTicker": "EURO",
+    "stockCode": "7208"
+  },
+  {
+    "stockName": "EONMETALL GROUP BERHAD",
+    "stockTicker": "EMETALL",
+    "stockCode": "7217"
+  },
+  {
+    "stockName": "DUFU TECHNOLOGY CORP. BERHAD",
+    "stockTicker": "DUFU",
+    "stockCode": "7233"
+  },
+  {
+    "stockName": "EWEIN BERHAD",
+    "stockTicker": "SKYGATE",
+    "stockCode": "7249"
+  },
+  {
+    "stockName": "EDEN INC. BERHAD",
+    "stockTicker": "EDEN",
+    "stockCode": "7471"
+  },
+  {
+    "stockName": "DKLS INDUSTRIES BHD",
+    "stockTicker": "DKLS",
+    "stockCode": "7528"
+  },
+  {
+    "stockName": "EP MANUFACTURING BHD",
+    "stockTicker": "EPMB",
+    "stockCode": "7773"
+  },
+  {
+    "stockName": "ECO WORLD DEVELOPMENT GROUP BERHAD",
+    "stockTicker": "ECOWLD",
+    "stockCode": "8206"
+  },
+  {
+    "stockName": "ENRA GROUP BERHAD",
+    "stockTicker": "ENRA",
+    "stockCode": "8613"
+  },
+  {
+    "stockName": "EKOVEST BERHAD",
+    "stockTicker": "EKOVEST",
+    "stockCode": "8877"
+  },
+  {
+    "stockName": "EG INDUSTRIES BERHAD",
+    "stockTicker": "EG",
+    "stockCode": "8907"
+  },
+  {
+    "stockName": "EKSONS CORPORATION BERHAD",
+    "stockTicker": "EKSONS",
+    "stockCode": "9016"
+  },
+  {
+    "stockName": "EMICO HOLDINGS BERHAD",
+    "stockTicker": "EMICO",
+    "stockCode": "9091"
+  },
+  {
+    "stockName": "BRIGHT PACKAGING INDUSTRY BERHAD",
+    "stockTicker": "BRIGHT",
+    "stockCode": "9938"
+  },
+  {
+    "stockName": "EQ8 DOW JONES ISLAMIC MARKET MALAYSIA TITANS 25 ETF",
+    "stockTicker": "EQ8MY25",
+    "stockCode": "0821EA"
+  },
+  {
+    "stockName": "EQ8 DOW JONES US TITANS 50 ETF",
+    "stockTicker": "EQ8US50",
+    "stockCode": "0827EA"
+  },
+  {
+    "stockName": "EQ8 MSCI MALAYSIA ISLAMIC DIVIDEND ETF",
+    "stockTicker": "EQ8MID",
+    "stockCode": "0824EA"
+  },
+  {
+    "stockName": "EQ8 MSCI SEA ISLAMIC DIVIDEND ETF",
+    "stockTicker": "EQ8SID",
+    "stockCode": "0825EA"
+  },
+  {
+    "stockName": "IFCA MSC BERHAD",
+    "stockTicker": "IFCAMSC",
+    "stockCode": "0023"
+  },
+  {
+    "stockName": "FAST ENERGY HOLDINGS BERHAD",
+    "stockTicker": "FAST",
+    "stockCode": "0084"
+  },
+  {
+    "stockName": "FOCUS DYNAMICS GROUP BERHAD",
+    "stockTicker": "FOCUS",
+    "stockCode": "0116"
+  },
+  {
+    "stockName": "FRONTKEN CORPORATION BERHAD",
+    "stockTicker": "FRONTKN",
+    "stockCode": "0128"
+  },
+  {
+    "stockName": "FIBON BERHAD",
+    "stockTicker": "FIBON",
+    "stockCode": "0149"
+  },
+  {
+    "stockName": "FINTEC GLOBAL BERHAD",
+    "stockTicker": "FINTEC",
+    "stockCode": "0150"
+  },
+  {
+    "stockName": "FOCUS POINT HOLDINGS BERHAD",
+    "stockTicker": "FOCUSP",
+    "stockCode": "0157"
+  },
+  {
+    "stockName": "GAGASAN NADI CERGAS BERHAD",
+    "stockTicker": "NADIBHD",
+    "stockCode": "0206"
+  },
+  {
+    "stockName": "FLEXIDYNAMIC HOLDINGS BERHAD",
+    "stockTicker": "FLEXI",
+    "stockCode": "0231"
+  },
+  {
+    "stockName": "FARM PRICE HOLDINGS BERHAD",
+    "stockTicker": "FPHB",
+    "stockCode": "0304"
+  },
+  {
+    "stockName": "FCW HOLDINGS BERHAD",
+    "stockTicker": "FCW",
+    "stockCode": "2755"
+  },
+  {
+    "stockName": "FACB INDUSTRIES INCORPORATED BERHAD",
+    "stockTicker": "FACBIND",
+    "stockCode": "2984"
+  },
+  {
+    "stockName": "FIBROMAT (M) BERHAD",
+    "stockTicker": "FBBHD",
+    "stockCode": "03026"
+  },
+  {
+    "stockName": "FIMA CORPORATION BERHAD",
+    "stockTicker": "FIMACOR",
+    "stockCode": "3107"
+  },
+  {
+    "stockName": "FRASER & NEAVE HOLDINGS BHD",
+    "stockTicker": "F&N",
+    "stockCode": "3689"
+  },
+  {
+    "stockName": "FAR EAST HOLDINGS BERHAD",
+    "stockTicker": "FAREAST",
+    "stockCode": "5029"
+  },
+  {
+    "stockName": "FOCUS LUMBER BERHAD",
+    "stockTicker": "FLBHD",
+    "stockCode": "5197"
+  },
+  {
+    "stockName": "FGV HOLDINGS BERHAD",
+    "stockTicker": "FGV",
+    "stockCode": "5222"
+  },
+  {
+    "stockName": "GABUNGAN AQRS BERHAD",
+    "stockTicker": "GBGAQRS",
+    "stockCode": "5226"
+  },
+  {
+    "stockName": "FOUNDPAC GROUP BERHAD",
+    "stockTicker": "FPGROUP",
+    "stockCode": "5277"
+  },
+  {
+    "stockName": "FARM FRESH BERHAD",
+    "stockTicker": "FFB",
+    "stockCode": "5306"
+  },
+  {
+    "stockName": "FEYTECH HOLDINGS BERHAD",
+    "stockTicker": "FEYTECH",
+    "stockCode": "5322"
+  },
+  {
+    "stockName": "FARLIM GROUP (MALAYSIA) BHD",
+    "stockTicker": "FARLIM",
+    "stockCode": "6041"
+  },
+  {
+    "stockName": "FIAMMA HOLDINGS BERHAD",
+    "stockTicker": "FIAMMA",
+    "stockCode": "6939"
+  },
+  {
+    "stockName": "FAJARBARU BUILDER GROUP BHD",
+    "stockTicker": "FBG",
+    "stockCode": "7047"
+  },
+  {
+    "stockName": "G3 GLOBAL BERHAD",
+    "stockTicker": "G3",
+    "stockCode": "7184"
+  },
+  {
+    "stockName": "FM GLOBAL LOGISTICS HOLDINGS BERHAD",
+    "stockTicker": "FM",
+    "stockCode": "7210"
+  },
+  {
+    "stockName": "FAVELLE FAVCO BERHAD",
+    "stockTicker": "FAVCO",
+    "stockCode": "7229"
+  },
+  {
+    "stockName": "G CAPITAL BERHAD",
+    "stockTicker": "GCAP",
+    "stockCode": "7676"
+  },
+  {
+    "stockName": "FEDERAL INTERNATIONAL HOLDINGS BERHAD",
+    "stockTicker": "FIHB",
+    "stockCode": "8605"
+  },
+  {
+    "stockName": "FORMOSA PROSONIC INDUSTRIES BERHAD",
+    "stockTicker": "FPI",
+    "stockCode": "9172"
+  },
+  {
+    "stockName": "GADANG HOLDINGS BHD",
+    "stockTicker": "GADANG",
+    "stockCode": "9261"
+  },
+  {
+    "stockName": "FITTERS DIVERSIFIED BERHAD",
+    "stockTicker": "FITTERS",
+    "stockCode": "9318"
+  },
+  {
+    "stockName": "FSBM HOLDINGS BERHAD",
+    "stockTicker": "FSBM",
+    "stockCode": "9377"
+  },
+  {
+    "stockName": "FTSE BURSA MALAYSIA KLCI ETF",
+    "stockTicker": "F4GBM-EA",
+    "stockCode": "0820EA"
+  },
+  {
+    "stockName": "GHL SYSTEMS BERHAD",
+    "stockTicker": "GHLSYS",
+    "stockCode": "0021"
+  },
+  {
+    "stockName": "HEXTAR CAPITAL BERHAD",
+    "stockTicker": "HEXCAP",
+    "stockCode": "0035"
+  },
+  {
+    "stockName": "GFM SERVICES BERHAD",
+    "stockTicker": "GFM",
+    "stockCode": "0039"
+  },
+  {
+    "stockName": "HONG SENG CONSOLIDATED BERHAD",
+    "stockTicker": "HONGSENG",
+    "stockCode": "0041"
+  },
+  {
+    "stockName": "HARVEST MIRACLE CAPITAL BERHAD",
+    "stockTicker": "HM",
+    "stockCode": "0060"
+  },
+  {
+    "stockName": "GREEN OCEAN CORPORATION BERHAD",
+    "stockTicker": "GOCEAN",
+    "stockCode": "0074"
+  },
+  {
+    "stockName": "GDEX BERHAD",
+    "stockTicker": "GDEX",
+    "stockCode": "0078"
+  },
+  {
+    "stockName": "GREEN PACKET BERHAD",
+    "stockTicker": "GPACKET",
+    "stockCode": "0082"
+  },
+  {
+    "stockName": "GENETEC TECHNOLOGY BERHAD",
+    "stockTicker": "GENETEC",
+    "stockCode": "0104"
+  },
+  {
+    "stockName": "GREENYIELD BERHAD",
+    "stockTicker": "GREENYB",
+    "stockCode": "0136"
+  },
+  {
+    "stockName": "HIAP HUAT HOLDINGS BERHAD",
+    "stockTicker": "HHHCORP",
+    "stockCode": "0160"
+  },
+  {
+    "stockName": "HEXTAR INDUSTRIES BERHAD",
+    "stockTicker": "HEXIND",
+    "stockCode": "0161"
+  },
+  {
+    "stockName": "INARI AMERTRON BERHAD",
+    "stockTicker": "INARI",
+    "stockCode": "0166"
+  },
+  {
+    "stockName": "HHRG BERHAD",
+    "stockTicker": "HHRG",
+    "stockCode": "0175"
+  },
+  {
+    "stockName": "HSS ENGINEERS BERHAD",
+    "stockTicker": "HSSEB",
+    "stockCode": "0185"
+  },
+  {
+    "stockName": "HLT GLOBAL BERHAD",
+    "stockTicker": "HLT",
+    "stockCode": "0188"
+  },
+  {
+    "stockName": "GDB HOLDINGS BERHAD",
+    "stockTicker": "GDB",
+    "stockCode": "0198"
+  },
+  {
+    "stockName": "GREATECH TECHNOLOGY BERHAD",
+    "stockTicker": "GREATEC",
+    "stockCode": "0208"
+  },
+  {
+    "stockName": "HPP HOLDINGS BERHAD",
+    "stockTicker": "HPPHB",
+    "stockCode": "0228"
+  },
+  {
+    "stockName": "HAILY GROUP BERHAD",
+    "stockTicker": "HAILY",
+    "stockCode": "0237"
+  },
+  {
+    "stockName": "INFOLINE TEC GROUP BERHAD",
+    "stockTicker": "INFOTEC",
+    "stockCode": "0253"
+  },
+  {
+    "stockName": "INFOMINA BERHAD",
+    "stockTicker": "INFOM",
+    "stockCode": "0265"
+  },
+  {
+    "stockName": "GLOSTREXT BERHAD",
+    "stockTicker": "GLXT",
+    "stockCode": "0284"
+  },
+  {
+    "stockName": "HE GROUP BERHAD",
+    "stockTicker": "HEGROUP",
+    "stockCode": "0296"
+  },
+  {
+    "stockName": "GO HUB CAPITAL BERHAD",
+    "stockTicker": "GOHUB",
+    "stockCode": "0311"
+  },
+  {
+    "stockName": "HONG LEONG FINANCIAL GROUP BERHAD",
+    "stockTicker": "HLFG",
+    "stockCode": "1082"
+  },
+  {
+    "stockName": "GLOBAL ORIENTAL BERHAD",
+    "stockTicker": "GOB",
+    "stockCode": "1147"
+  },
+  {
+    "stockName": "GUOCOLAND (MALAYSIA) BERHAD",
+    "stockTicker": "GUOCO",
+    "stockCode": "1503"
+  },
+  {
+    "stockName": "HARBOUR-LINK GROUP BERHAD",
+    "stockTicker": "HARBOUR",
+    "stockCode": "2062"
+  },
+  {
+    "stockName": "GOPENG BERHAD",
+    "stockTicker": "GOPENG",
+    "stockCode": "2135"
+  },
+  {
+    "stockName": "GENTING PLANTATIONS BERHAD",
+    "stockTicker": "GENP",
+    "stockCode": "2291"
+  },
+  {
+    "stockName": "INCH KENNETH KAJANG RUBBER PUBLIC LTD CO",
+    "stockTicker": "INCKEN",
+    "stockCode": "2607"
+  },
+  {
+    "stockName": "GO INNOVATE ASIA BERHAD",
+    "stockTicker": "GOINNO",
+    "stockCode": "03028"
+  },
+  {
+    "stockName": "GPP RESOURCES BERHAD",
+    "stockTicker": "GPP",
+    "stockCode": "03029"
+  },
+  {
+    "stockName": "IDB TECHNOLOGIES BERHAD",
+    "stockTicker": "IDBTECH",
+    "stockCode": "03030"
+  },
+  {
+    "stockName": "HAP SENG CONSOLIDATED BERHAD",
+    "stockTicker": "HAPSENG",
+    "stockCode": "3034"
+  },
+  {
+    "stockName": "ICT ZONE ASIA BERHAD",
+    "stockTicker": "TECHFIN",
+    "stockCode": "03038"
+  },
+  {
+    "stockName": "GENTING BERHAD",
+    "stockTicker": "GENTING",
+    "stockCode": "3182"
+  },
+  {
+    "stockName": "GEORGE KENT (MALAYSIA) BERHAD",
+    "stockTicker": "GKENT",
+    "stockCode": "3204"
+  },
+  {
+    "stockName": "GUH HOLDINGS BERHAD",
+    "stockTicker": "GUH",
+    "stockCode": "3247"
+  },
+  {
+    "stockName": "HEINEKEN MALAYSIA BERHAD",
+    "stockTicker": "HEIM",
+    "stockCode": "3255"
+  },
+  {
+    "stockName": "HEXZA CORPORATION BERHAD",
+    "stockTicker": "HEXZA",
+    "stockCode": "3298"
+  },
+  {
+    "stockName": "HONG LEONG INDUSTRIES BERHAD",
+    "stockTicker": "HLIND",
+    "stockCode": "3301"
+  },
+  {
+    "stockName": "IJM CORPORATION BERHAD",
+    "stockTicker": "IJM",
+    "stockCode": "3336"
+  },
+  {
+    "stockName": "I-BERHAD",
+    "stockTicker": "IBHD",
+    "stockCode": "4251"
+  },
+  {
+    "stockName": "HENGYUAN REFINING COMPANY BERHAD",
+    "stockTicker": "HENGYUAN",
+    "stockCode": "4324"
+  },
+  {
+    "stockName": "GENTING MALAYSIA BERHAD",
+    "stockTicker": "GENM",
+    "stockCode": "4715"
+  },
+  {
+    "stockName": "HUME CEMENT INDUSTRIES BERHAD",
+    "stockTicker": "HUMEIND",
+    "stockCode": "5000"
+  },
+  {
+    "stockName": "HARRISONS HOLDINGS (MALAYSIA) BERHAD",
+    "stockTicker": "HARISON",
+    "stockCode": "5008"
+  },
+  {
+    "stockName": "GLOMAC BERHAD",
+    "stockTicker": "GLOMAC",
+    "stockCode": "5020"
+  },
+  {
+    "stockName": "HUP SENG INDUSTRIES BERHAD",
+    "stockTicker": "HUPSENG",
+    "stockCode": "5024"
+  },
+  {
+    "stockName": "HEITECH PADU BERHAD",
+    "stockTicker": "HTPADU",
+    "stockCode": "5028"
+  },
+  {
+    "stockName": "HUA YANG BERHAD",
+    "stockTicker": "HUAYANG",
+    "stockCode": "5062"
+  },
+  {
+    "stockName": "HIAP TECK VENTURE BERHAD",
+    "stockTicker": "HIAPTEK",
+    "stockCode": "5072"
+  },
+  {
+    "stockName": "IBRACO BERHAD",
+    "stockTicker": "IBRACO",
+    "stockCode": "5084"
+  },
+  {
+    "stockName": "HEVEABOARD BERHAD",
+    "stockTicker": "HEVEA",
+    "stockCode": "5095"
+  },
+  {
+    "stockName": "GUAN CHONG BERHAD",
+    "stockTicker": "GCB",
+    "stockCode": "5102"
+  },
+  {
+    "stockName": "ICAPITAL.BIZ BERHAD",
+    "stockTicker": "ICAP",
+    "stockCode": "5108"
+  },
+  {
+    "stockName": "HEKTAR REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "HEKTAR",
+    "stockCode": "5121"
+  },
+  {
+    "stockName": "HEXTAR TECHNOLOGIES SOLUTIONS BERHAD",
+    "stockTicker": "HEXTECH",
+    "stockCode": "5136"
+  },
+  {
+    "stockName": "HAP SENG PLANTATIONS HOLDINGS BERHAD",
+    "stockTicker": "HSPLANT",
+    "stockCode": "5138"
+  },
+  {
+    "stockName": "HEXTAR GLOBAL BERHAD",
+    "stockTicker": "HEXTAR",
+    "stockCode": "5151"
+  },
+  {
+    "stockName": "HOMERITZ CORPORATION BERHAD",
+    "stockTicker": "HOMERIZ",
+    "stockCode": "5160"
+  },
+  {
+    "stockName": "HARTALEGA HOLDINGS BERHAD",
+    "stockTicker": "HARTA",
+    "stockCode": "5168"
+  },
+  {
+    "stockName": "HO HUP CONSTRUCTION COMPANY BHD",
+    "stockTicker": "HOHUP",
+    "stockCode": "5169"
+  },
+  {
+    "stockName": "HB GLOBAL LIMITED",
+    "stockTicker": "HBGLOB",
+    "stockCode": "5187"
+  },
+  {
+    "stockName": "HIBISCUS PETROLEUM BERHAD",
+    "stockTicker": "HIBISCS",
+    "stockCode": "5199"
+  },
+  {
+    "stockName": "GAS MALAYSIA BERHAD",
+    "stockTicker": "GASMSIA",
+    "stockCode": "5209"
+  },
+  {
+    "stockName": "GLOBALTEC FORMATION BERHAD",
+    "stockTicker": "GLOTEC",
+    "stockCode": "5220"
+  },
+  {
+    "stockName": "IHH HEALTHCARE BERHAD",
+    "stockTicker": "IHH",
+    "stockCode": "5225"
+  },
+  {
+    "stockName": "IGB REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "IGBREIT",
+    "stockCode": "5227"
+  },
+  {
+    "stockName": "ICON OFFSHORE BERHAD",
+    "stockTicker": "LFG",
+    "stockCode": "5255"
+  },
+  {
+    "stockName": "HONG LEONG CAPITAL BERHAD",
+    "stockTicker": "HLCAP",
+    "stockCode": "5274"
+  },
+  {
+    "stockName": "HPMT HOLDINGS BERHAD",
+    "stockTicker": "HPMT",
+    "stockCode": "5291"
+  },
+  {
+    "stockName": "IGB COMMERCIAL REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "IGBCR",
+    "stockCode": "5299"
+  },
+  {
+    "stockName": "GAMUDA BERHAD",
+    "stockTicker": "GAMUDA",
+    "stockCode": "5398"
+  },
+  {
+    "stockName": "GRAND CENTRAL ENTERPRISES BHD",
+    "stockTicker": "GCE",
+    "stockCode": "5592"
+  },
+  {
+    "stockName": "IGB BERHAD",
+    "stockTicker": "IGBB",
+    "stockCode": "5606"
+  },
+  {
+    "stockName": "ILB GROUP BERHAD",
+    "stockTicker": "NHB",
+    "stockCode": "5614"
+  },
+  {
+    "stockName": "GOLDEN PHAROS BERHAD",
+    "stockTicker": "GPHAROS",
+    "stockCode": "5649"
+  },
+  {
+    "stockName": "HONG LEONG BANK BERHAD",
+    "stockTicker": "HLBANK",
+    "stockCode": "5819"
+  },
+  {
+    "stockName": "HUBLINE BERHAD",
+    "stockTicker": "HUBLINE",
+    "stockCode": "7013"
+  },
+  {
+    "stockName": "GLOBETRONICS TECHNOLOGY BERHAD",
+    "stockTicker": "GTRONIC",
+    "stockCode": "7022"
+  },
+  {
+    "stockName": "HCK CAPITAL GROUP BERHAD",
+    "stockTicker": "HCK",
+    "stockCode": "7105"
+  },
+  {
+    "stockName": "GIIB HOLDINGS BERHAD",
+    "stockTicker": "GIIB",
+    "stockCode": "7192"
+  },
+  {
+    "stockName": "GE-SHEN CORPORATION BERHAD",
+    "stockTicker": "GESHEN",
+    "stockCode": "7197"
+  },
+  {
+    "stockName": "HEXTAR RETAIL BERHAD",
+    "stockTicker": "HEXRTL",
+    "stockCode": "7202"
+  },
+  {
+    "stockName": "IMASPRO CORPORATION BERHAD",
+    "stockTicker": "IMASPRO",
+    "stockCode": "7222"
+  },
+  {
+    "stockName": "HANDAL ENERGY BERHAD",
+    "stockTicker": "HANDAL",
+    "stockCode": "7253"
+  },
+  {
+    "stockName": "GOLDEN LAND BERHAD",
+    "stockTicker": "GLBHD",
+    "stockCode": "7382"
+  },
+  {
+    "stockName": "HARN LEN CORPORATION BHD",
+    "stockTicker": "HARNLEN",
+    "stockCode": "7501"
+  },
+  {
+    "stockName": "HEXTAR HEALTHCARE BERHAD",
+    "stockTicker": "HEXCARE",
+    "stockCode": "7803"
+  },
+  {
+    "stockName": "HIL INDUSTRIES BERHAD",
+    "stockTicker": "HIL",
+    "stockCode": "8443"
+  },
+  {
+    "stockName": "HWA TAI INDUSTRIES BERHAD",
+    "stockTicker": "HWATAI",
+    "stockCode": "8478"
+  },
+  {
+    "stockName": "ICONIC WORLDWIDE BERHAD",
+    "stockTicker": "ICONIC",
+    "stockCode": "9113"
+  },
+  {
+    "stockName": "GREATER BAY HOLDINGS BERHAD",
+    "stockTicker": "GBAY",
+    "stockCode": "9148"
+  },
+  {
+    "stockName": "INDUSTRONICS BERHAD",
+    "stockTicker": "ITRONIC",
+    "stockCode": "9393"
+  },
+  {
+    "stockName": "HO WAH GENTING BERHAD",
+    "stockTicker": "HWGB",
+    "stockCode": "9601"
+  },
+  {
+    "stockName": "IDEAL CAPITAL BERHAD",
+    "stockTicker": "IDEAL",
+    "stockCode": "9687"
+  },
+  {
+    "stockName": "GROMUTUAL BERHAD",
+    "stockTicker": "GMUTUAL",
+    "stockCode": "9962"
+  },
+  {
+    "stockName": "IHSAN SUKUK-ETBS 4.60%0824",
+    "stockTicker": "IHS046000824",
+    "stockCode": "0401GA"
+  },
+  {
+    "stockName": "IRIS CORPORATION BERHAD",
+    "stockTicker": "IRIS",
+    "stockCode": "0010"
+  },
+  {
+    "stockName": "JAG BERHAD",
+    "stockTicker": "JAG",
+    "stockCode": "0024"
+  },
+  {
+    "stockName": "KEY ALLIANCE GROUP BERHAD",
+    "stockTicker": "KGROUP",
+    "stockCode": "0036"
+  },
+  {
+    "stockName": "KARYON INDUSTRIES BERHAD",
+    "stockTicker": "KARYON",
+    "stockCode": "0054"
+  },
+  {
+    "stockName": "JCBNEXT BERHAD",
+    "stockTicker": "JCBNEXT",
+    "stockCode": "0058"
+  },
+  {
+    "stockName": "JHM CONSOLIDATION BERHAD",
+    "stockTicker": "JHM",
+    "stockCode": "0127"
+  },
+  {
+    "stockName": "KEY ASIC BERHAD",
+    "stockTicker": "KEYASIC",
+    "stockCode": "0143"
+  },
+  {
+    "stockName": "JF TECHNOLOGY BERHAD",
+    "stockTicker": "JFTECH",
+    "stockCode": "0146"
+  },
+  {
+    "stockName": "INNITY CORPORATION BERHAD",
+    "stockTicker": "INNITY",
+    "stockCode": "0147"
+  },
+  {
+    "stockName": "KELINGTON GROUP BERHAD",
+    "stockTicker": "KGB",
+    "stockCode": "0151"
+  },
+  {
+    "stockName": "KANGER INTERNATIONAL BERHAD",
+    "stockTicker": "KANGER",
+    "stockCode": "0170"
+  },
+  {
+    "stockName": "KIM TECK CHEONG CONSOLIDATED BERHAD",
+    "stockTicker": "KTC",
+    "stockCode": "0180"
+  },
+  {
+    "stockName": "INTA BINA GROUP BERHAD",
+    "stockTicker": "INTA",
+    "stockCode": "0192"
+  },
+  {
+    "stockName": "KINERGY ADVANCEMENT BERHAD",
+    "stockTicker": "KINERGY",
+    "stockCode": "0193"
+  },
+  {
+    "stockName": "KIM HIN JOO (MALAYSIA) BERHAD",
+    "stockTicker": "KHJB",
+    "stockCode": "0210"
+  },
+  {
+    "stockName": "KGW GROUP BERHAD",
+    "stockTicker": "KGW",
+    "stockCode": "0282"
+  },
+  {
+    "stockName": "JATI TINGGI GROUP BERHAD",
+    "stockTicker": "JTGROUP",
+    "stockCode": "0292"
+  },
+  {
+    "stockName": "KJTS GROUP BERHAD",
+    "stockTicker": "KJTS",
+    "stockCode": "0293"
+  },
+  {
+    "stockName": "KAWAN RENERGY BERHAD",
+    "stockTicker": "KENERGY",
+    "stockCode": "0307"
+  },
+  {
+    "stockName": "ISKANDAR WATERFRONT CITY BERHAD",
+    "stockTicker": "IWCITY",
+    "stockCode": "1589"
+  },
+  {
+    "stockName": "IOI CORPORATION BERHAD",
+    "stockTicker": "IOICORP",
+    "stockCode": "1961"
+  },
+  {
+    "stockName": "JISHAN BERHAD",
+    "stockTicker": "JISHAN",
+    "stockCode": "03040"
+  },
+  {
+    "stockName": "INSAS BERHAD",
+    "stockTicker": "INSAS",
+    "stockCode": "3379"
+  },
+  {
+    "stockName": "JOHAN HOLDINGS BERHAD",
+    "stockTicker": "JOHAN",
+    "stockCode": "3441"
+  },
+  {
+    "stockName": "KECK SENG (MALAYSIA) BERHAD",
+    "stockTicker": "KSENG",
+    "stockCode": "3476"
+  },
+  {
+    "stockName": "JAYA TIASA HOLDINGS BHD",
+    "stockTicker": "JTIASA",
+    "stockCode": "4383"
+  },
+  {
+    "stockName": "JAKS RESOURCES BERHAD",
+    "stockTicker": "JAKS",
+    "stockCode": "4723"
+  },
+  {
+    "stockName": "KIM LOONG RESOURCES BERHAD",
+    "stockTicker": "KMLOONG",
+    "stockCode": "5027"
+  },
+  {
+    "stockName": "IQ GROUP HOLDINGS BERHAD",
+    "stockTicker": "IQGROUP",
+    "stockCode": "5107"
+  },
+  {
+    "stockName": "JCY INTERNATIONAL BERHAD",
+    "stockTicker": "JCY",
+    "stockCode": "5161"
+  },
+  {
+    "stockName": "KIMLUN CORPORATION BERHAD",
+    "stockTicker": "KIMLUN",
+    "stockCode": "5171"
+  },
+  {
+    "stockName": "IVORY PROPERTIES GROUP BERHAD",
+    "stockTicker": "IVORY",
+    "stockCode": "5175"
+  },
+  {
+    "stockName": "INGENIEUR GUDANG BERHAD",
+    "stockTicker": "INGENIEU",
+    "stockCode": "5178"
+  },
+  {
+    "stockName": "K. SENG SENG CORPORATION BERHAD",
+    "stockTicker": "KSSC",
+    "stockCode": "5192"
+  },
+  {
+    "stockName": "KAREX BERHAD",
+    "stockTicker": "KAREX",
+    "stockCode": "5247"
+  },
+  {
+    "stockName": "IOI PROPERTIES GROUP BERHAD",
+    "stockTicker": "IOIPG",
+    "stockCode": "5249"
+  },
+  {
+    "stockName": "KIP REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "KIPREIT",
+    "stockCode": "5280"
+  },
+  {
+    "stockName": "INNATURE BERHAD",
+    "stockTicker": "INNATURE",
+    "stockCode": "5295"
+  },
+  {
+    "stockName": "ITMAX SYSTEM BERHAD",
+    "stockTicker": "ITMAX",
+    "stockCode": "5309"
+  },
+  {
+    "stockName": "KEYFIELD INTERNATIONAL BERHAD",
+    "stockTicker": "KEYFIELD",
+    "stockCode": "5321"
+  },
+  {
+    "stockName": "JOHOR PLANTATIONS GROUP BERHAD",
+    "stockTicker": "JPG",
+    "stockCode": "5323"
+  },
+  {
+    "stockName": "KIM HIN INDUSTRY BERHAD",
+    "stockTicker": "KIMHIN",
+    "stockCode": "5371"
+  },
+  {
+    "stockName": "JENTAYU SUSTAINABLES BERHAD",
+    "stockTicker": "JSB",
+    "stockCode": "5673"
+  },
+  {
+    "stockName": "KHEE SAN BERHAD",
+    "stockTicker": "KHEESAN",
+    "stockCode": "6203"
+  },
+  {
+    "stockName": "KIA LIM BERHAD",
+    "stockTicker": "KIALIM",
+    "stockCode": "6211"
+  },
+  {
+    "stockName": "INNOPRISE PLANTATIONS BERHAD",
+    "stockTicker": "INNO",
+    "stockCode": "6262"
+  },
+  {
+    "stockName": "KENANGA INVESTMENT BANK BERHAD",
+    "stockTicker": "KENANGA",
+    "stockCode": "6483"
+  },
+  {
+    "stockName": "JKG LAND BERHAD",
+    "stockTicker": "JKGLAND",
+    "stockCode": "6769"
+  },
+  {
+    "stockName": "KHIND HOLDINGS BERHAD",
+    "stockTicker": "KHIND",
+    "stockCode": "7062"
+  },
+  {
+    "stockName": "KERJAYA PROSPEK PROPERTY BERHAD",
+    "stockTicker": "KPPROP",
+    "stockCode": "7077"
+  },
+  {
+    "stockName": "JOE HOLDING BERHAD",
+    "stockTicker": "JOE",
+    "stockCode": "7096"
+  },
+  {
+    "stockName": "JAYCORP BERHAD",
+    "stockTicker": "JAYCORP",
+    "stockCode": "7152"
+  },
+  {
+    "stockName": "KERJAYA PROSPEK GROUP BERHAD",
+    "stockTicker": "KERJAYA",
+    "stockCode": "7161"
+  },
+  {
+    "stockName": "IQZAN HOLDING BERHAD",
+    "stockTicker": "IQZAN",
+    "stockCode": "7183"
+  },
+  {
+    "stockName": "KEIN HING INTERNATIONAL BERHAD",
+    "stockTicker": "KEINHIN",
+    "stockCode": "7199"
+  },
+  {
+    "stockName": "KAWAN FOOD BERHAD",
+    "stockTicker": "KAWAN",
+    "stockCode": "7216"
+  },
+  {
+    "stockName": "JADI IMAGING HOLDINGS BERHAD",
+    "stockTicker": "JADI",
+    "stockCode": "7223"
+  },
+  {
+    "stockName": "INFRAHARTA HOLDINGS BERHAD",
+    "stockTicker": "IHB",
+    "stockCode": "7240"
+  },
+  {
+    "stockName": "KEN HOLDINGS BERHAD",
+    "stockTicker": "KEN",
+    "stockCode": "7323"
+  },
+  {
+    "stockName": "JASA KITA BERHAD",
+    "stockTicker": "JASKITA",
+    "stockCode": "8648"
+  },
+  {
+    "stockName": "KAMDAR GROUP (M) BERHAD",
+    "stockTicker": "KAMDAR",
+    "stockCode": "8672"
+  },
+  {
+    "stockName": "IREKA CORPORATION BERHAD",
+    "stockTicker": "IREKA",
+    "stockCode": "8834"
+  },
+  {
+    "stockName": "JIANKUN INTERNATIONAL BERHAD",
+    "stockTicker": "JIANKUN",
+    "stockCode": "8923"
+  },
+  {
+    "stockName": "KENANGA KLCI DAILY (-1X) INVERSE ETF",
+    "stockTicker": "KLCI1XI",
+    "stockCode": "0835EA"
+  },
+  {
+    "stockName": "KENANGA KLCI DAILY 2X LEVERAGED ETF",
+    "stockTicker": "KLCI2XL",
+    "stockCode": "0834EA"
+  },
+  {
+    "stockName": "KESM INDUSTRIES BERHAD",
+    "stockTicker": "KESM",
+    "stockCode": "9334"
+  },
+  {
+    "stockName": "KKB ENGINEERING BERHAD",
+    "stockTicker": "KKB",
+    "stockCode": "9466"
+  },
+  {
+    "stockName": "KLCC PROPERTY HOLDINGS BERHAD",
+    "stockTicker": "KLCC",
+    "stockCode": "5235SS"
+  },
+  {
+    "stockName": "KOTRA INDUSTRIES BERHAD",
+    "stockTicker": "KOTRA",
+    "stockCode": "0002"
+  },
+  {
+    "stockName": "PINEAPPLE RESOURCES BERHAD",
+    "stockTicker": "PINEAPP",
+    "stockCode": "0006"
+  },
+  {
+    "stockName": "PARLO BERHAD",
+    "stockTicker": "PARLO",
+    "stockCode": "0022"
+  },
+  {
+    "stockName": "PETERLABS HOLDINGS BERHAD",
+    "stockTicker": "PLABS",
+    "stockCode": "0171"
+  },
+  {
+    "stockName": "PASUKHAS GROUP BERHAD",
+    "stockTicker": "MIDTOWN",
+    "stockCode": "0177"
+  },
+  {
+    "stockName": "PERAK TRANSIT BERHAD",
+    "stockTicker": "PTRANS",
+    "stockCode": "0186"
+  },
+  {
+    "stockName": "POWERWELL HOLDINGS BERHAD",
+    "stockTicker": "PWRWELL",
+    "stockCode": "0217"
+  },
+  {
+    "stockName": "PEKAT GROUP BERHAD",
+    "stockTicker": "PEKAT",
+    "stockCode": "0233"
+  },
+  {
+    "stockName": "PAPPAJACK BERHAD",
+    "stockTicker": "PPJACK",
+    "stockCode": "0242"
+  },
+  {
+    "stockName": "PLYTEC HOLDING BERHAD",
+    "stockTicker": "PLYTEC",
+    "stockCode": "0289"
+  },
+  {
+    "stockName": "PANDA ECO SYSTEM BERHAD",
+    "stockTicker": "PANDA",
+    "stockCode": "0290"
+  },
+  {
+    "stockName": "PAN MALAYSIA HOLDINGS BERHAD",
+    "stockTicker": "EXSIMHB",
+    "stockCode": "1287"
+  },
+  {
+    "stockName": "PARAMOUNT CORPORATION BERHAD",
+    "stockTicker": "PARAMON",
+    "stockCode": "1724"
+  },
+  {
+    "stockName": "PINEHILL PACIFIC BERHAD",
+    "stockTicker": "PINEPAC",
+    "stockCode": "1902"
+  },
+  {
+    "stockName": "PARKWOOD HOLDINGS BERHAD",
+    "stockTicker": "PARKWD",
+    "stockCode": "2682"
+  },
+  {
+    "stockName": "POLYDAMIC GROUP BERHAD",
+    "stockTicker": "POLYDM",
+    "stockCode": "03031"
+  },
+  {
+    "stockName": "PETRON MALAYSIA REFINING & MARKETING BHD",
+    "stockTicker": "PETRONM",
+    "stockCode": "3042"
+  },
+  {
+    "stockName": "PARAGON GLOBE BERHAD",
+    "stockTicker": "PGLOBE",
+    "stockCode": "3611"
+  },
+  {
+    "stockName": "PANASONIC MANUFACTURING MALAYSIA BERHAD",
+    "stockTicker": "PANAMY",
+    "stockCode": "3719"
+  },
+  {
+    "stockName": "PPB GROUP BERHAD",
+    "stockTicker": "PPB",
+    "stockCode": "4065"
+  },
+  {
+    "stockName": "PAN MALAYSIA CORPORATION BERHAD",
+    "stockTicker": "PMCORP",
+    "stockCode": "4081"
+  },
+  {
+    "stockName": "PEGASUS HEIGHTS BERHAD",
+    "stockTicker": "PHB",
+    "stockCode": "4464"
+  },
+  {
+    "stockName": "POS MALAYSIA BERHAD",
+    "stockTicker": "POS",
+    "stockCode": "4634"
+  },
+  {
+    "stockName": "PAOS HOLDINGS BERHAD",
+    "stockTicker": "PAOS",
+    "stockCode": "5022"
+  },
+  {
+    "stockName": "PBA HOLDINGS BHD",
+    "stockTicker": "PBA",
+    "stockCode": "5041"
+  },
+  {
+    "stockName": "PLENITUDE BERHAD",
+    "stockTicker": "PLENITU",
+    "stockCode": "5075"
+  },
+  {
+    "stockName": "POH KONG HOLDINGS BERHAD",
+    "stockTicker": "POHKONG",
+    "stockCode": "5080"
+  },
+  {
+    "stockName": "PANTECH GROUP HOLDINGS BERHAD",
+    "stockTicker": "PANTECH",
+    "stockCode": "5125"
+  },
+  {
+    "stockName": "PETRA ENERGY BERHAD",
+    "stockTicker": "PENERGY",
+    "stockCode": "5133"
+  },
+  {
+    "stockName": "PETRONAS CHEMICALS GROUP BERHAD",
+    "stockTicker": "PCHEM",
+    "stockCode": "5183"
+  },
+  {
+    "stockName": "PAVILION REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "PAVREIT",
+    "stockCode": "5212"
+  },
+  {
+    "stockName": "PESTECH INTERNATIONAL BERHAD",
+    "stockTicker": "PESTEC",
+    "stockCode": "5219"
+  },
+  {
+    "stockName": "PBS BERHAD",
+    "stockTicker": "PBSB",
+    "stockCode": "5231"
+  },
+  {
+    "stockName": "PECCA GROUP BERHAD",
+    "stockTicker": "PECCA",
+    "stockCode": "5271"
+  },
+  {
+    "stockName": "PERUSAHAAN SADUR TIMAH MALAYSIA (PERSTIMA) BHD",
+    "stockTicker": "PERSTIM",
+    "stockCode": "5436"
+  },
+  {
+    "stockName": "PIMPINAN EHSAN BERHAD",
+    "stockTicker": "PEB",
+    "stockCode": "5622"
+  },
+  {
+    "stockName": "PARKSON HOLDINGS BERHAD",
+    "stockTicker": "PARKSON",
+    "stockCode": "5657"
+  },
+  {
+    "stockName": "PETRONAS DAGANGAN BHD",
+    "stockTicker": "PETDAG",
+    "stockCode": "5681"
+  },
+  {
+    "stockName": "PACIFIC & ORIENT BERHAD",
+    "stockTicker": "P&O",
+    "stockCode": "6009"
+  },
+  {
+    "stockName": "PETRONAS GAS BERHAD",
+    "stockTicker": "PETGAS",
+    "stockCode": "6033"
+  },
+  {
+    "stockName": "PCCS GROUP BERHAD",
+    "stockTicker": "PCCS",
+    "stockCode": "6068"
+  },
+  {
+    "stockName": "PDZ HOLDINGS BHD",
+    "stockTicker": "PDZ",
+    "stockCode": "6254"
+  },
+  {
+    "stockName": "PNE PCB BERHAD",
+    "stockTicker": "PNEPCB",
+    "stockCode": "6637"
+  },
+  {
+    "stockName": "PASDEC HOLDINGS BERHAD",
+    "stockTicker": "PASDEC",
+    "stockCode": "6912"
+  },
+  {
+    "stockName": "PADINI HOLDINGS BERHAD",
+    "stockTicker": "PADINI",
+    "stockCode": "7052"
+  },
+  {
+    "stockName": "PLB ENGINEERING BERHAD",
+    "stockTicker": "PLB",
+    "stockCode": "7055"
+  },
+  {
+    "stockName": "PERMAJU INDUSTRIES BERHAD",
+    "stockTicker": "PERMAJU",
+    "stockCode": "7080"
+  },
+  {
+    "stockName": "PHARMANIAGA BERHAD",
+    "stockTicker": "PHARMA",
+    "stockCode": "7081"
+  },
+  {
+    "stockName": "POH HUAT RESOURCES HOLDINGS BERHAD",
+    "stockTicker": "POHUAT",
+    "stockCode": "7088"
+  },
+  {
+    "stockName": "P.I.E. INDUSTRIAL BERHAD",
+    "stockTicker": "PIE",
+    "stockCode": "7095"
+  },
+  {
+    "stockName": "PERDANA PETROLEUM BERHAD",
+    "stockTicker": "PERDANA",
+    "stockCode": "7108"
+  },
+  {
+    "stockName": "PENTAMASTER CORPORATION BERHAD",
+    "stockTicker": "PENTA",
+    "stockCode": "7160"
+  },
+  {
+    "stockName": "PJBUMI BERHAD",
+    "stockTicker": "PJBUMI",
+    "stockCode": "7163"
+  },
+  {
+    "stockName": "PRG HOLDINGS BERHAD",
+    "stockTicker": "PRG",
+    "stockCode": "7168"
+  },
+  {
+    "stockName": "PMB TECHNOLOGY BERHAD",
+    "stockTicker": "PMBTECH",
+    "stockCode": "7172"
+  },
+  {
+    "stockName": "P.A. RESOURCES BERHAD",
+    "stockTicker": "PA",
+    "stockCode": "7225"
+  },
+  {
+    "stockName": "POWER ROOT BERHAD",
+    "stockTicker": "PWROOT",
+    "stockCode": "7237"
+  },
+  {
+    "stockName": "PGF CAPITAL BERHAD",
+    "stockTicker": "PGF",
+    "stockCode": "8117"
+  },
+  {
+    "stockName": "PESONA METRO HOLDINGS BERHAD",
+    "stockTicker": "PESONA",
+    "stockCode": "8311"
+  },
+  {
+    "stockName": "PERAK CORPORATION BERHAD",
+    "stockTicker": "PRKCORP",
+    "stockCode": "8346"
+  },
+  {
+    "stockName": "PANSAR BERHAD",
+    "stockTicker": "PANSAR",
+    "stockCode": "8419"
+  },
+  {
+    "stockName": "PERTAMA DIGITAL BERHAD",
+    "stockTicker": "PERTAMA",
+    "stockCode": "8532"
+  },
+  {
+    "stockName": "PRESS METAL ALUMINIUM HOLDINGS BERHAD",
+    "stockTicker": "PMETAL",
+    "stockCode": "8869"
+  },
+  {
+    "stockName": "PARAGON UNION BERHAD",
+    "stockTicker": "PARAGON",
+    "stockCode": "9407"
+  },
+  {
+    "stockName": "PINTARAS JAYA BHD",
+    "stockTicker": "PTARAS",
+    "stockCode": "9598"
+  },
+  {
+    "stockName": "PLS PLANTATIONS BERHAD",
+    "stockTicker": "PLS",
+    "stockCode": "9695"
+  },
+  {
+    "stockName": "PRESTAR RESOURCES BERHAD",
+    "stockTicker": "PRESTAR",
+    "stockCode": "9873"
+  },
+  {
+    "stockName": "PENSONIC HOLDINGS BERHAD",
+    "stockTicker": "PENSONI",
+    "stockCode": "9997"
+  },
+  {
+    "stockName": "PRINCIPAL FTSE ASEAN 40 MALAYSIA ETF",
+    "stockTicker": "PAM-A40M",
+    "stockCode": "0822EA"
+  },
+  {
+    "stockName": "PRINCIPAL FTSE CHINA 50 ETF",
+    "stockTicker": "PAM-C50",
+    "stockCode": "0823EA"
+  },
+  {
+    "stockName": "PUC BERHAD",
+    "stockTicker": "PUC",
+    "stockCode": "0007"
+  },
+  {
+    "stockName": "THREE-A RESOURCES BERHAD",
+    "stockTicker": "3A",
+    "stockCode": "0012"
+  },
+  {
+    "stockName": "SCOPE INDUSTRIES BERHAD",
+    "stockTicker": "SCOPE",
+    "stockCode": "0028"
+  },
+  {
+    "stockName": "SOUTHERN SCORE BUILDERS BERHAD",
+    "stockTicker": "SSB8",
+    "stockCode": "0045"
+  },
+  {
+    "stockName": "SYSTECH BHD",
+    "stockTicker": "SYSTECH",
+    "stockCode": "0050"
+  },
+  {
+    "stockName": "SERSOL BERHAD",
+    "stockTicker": "SERSOL",
+    "stockCode": "0055"
+  },
+  {
+    "stockName": "VSOLAR GROUP BERHAD",
+    "stockTicker": "VSOLAR",
+    "stockCode": "0066"
+  },
+  {
+    "stockName": "TOWER REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "TWRREIT",
+    "stockCode": "5111"
+  },
+  {
+    "stockName": "TOYO VENTURES HOLDINGS BERHAD",
+    "stockTicker": "TOYOVEN",
+    "stockCode": "7173"
+  },
+  {
+    "stockName": "TPC PLUS BERHAD",
+    "stockTicker": "TPC",
+    "stockCode": "7176"
+  },
+  {
+    "stockName": "TRADEPLUS DWA MALAYSIA MOMENTUM TRACKER",
+    "stockTicker": "MY-MOMETF",
+    "stockCode": "0836EA"
+  },
+  {
+    "stockName": "TRADEPLUS MSCI ASIA EX JAPAN REITS TRACKER",
+    "stockTicker": "AXJ-REITSETF",
+    "stockCode": "0837EA"
+  },
+  {
+    "stockName": "TRADEPLUS S&P NEW CHINA TRACKER-MYR",
+    "stockTicker": "CHINAETF-MYR",
+    "stockCode": "0829EA"
+  },
+  {
+    "stockName": "TRADEPLUS S&P NEW CHINA TRACKER-USD",
+    "stockTicker": "CHINAETF-USD",
+    "stockCode": "0829EB"
+  },
+  {
+    "stockName": "TRADEPLUS SHARIAH GOLD TRACKER",
+    "stockTicker": "GOLDETF",
+    "stockCode": "0828EA"
+  },
+  {
+    "stockName": "UCREST BERHAD",
+    "stockTicker": "UCREST",
+    "stockCode": "0005"
+  },
+  {
+    "stockName": "VINVEST CAPITAL HOLDINGS BERHAD",
+    "stockTicker": "VINVEST",
+    "stockCode": "0069"
+  },
+  {
+    "stockName": "VITROX CORPORATION BERHAD",
+    "stockTicker": "VITROX",
+    "stockCode": "0097"
+  },
+  {
+    "stockName": "WAJA KONSORTIUM BERHAD",
+    "stockTicker": "WAJA",
+    "stockCode": "0102"
+  },
+  {
+    "stockName": "TRIVE PROPERTY GROUP BERHAD",
+    "stockTicker": "TRIVE",
+    "stockCode": "0118"
+  },
+  {
+    "stockName": "VISDYNAMICS HOLDINGS BERHAD",
+    "stockTicker": "VIS",
+    "stockCode": "0120"
+  },
+  {
+    "stockName": "WEGMANS HOLDINGS BERHAD",
+    "stockTicker": "WEGMANS",
+    "stockCode": "0197"
+  },
+  {
+    "stockName": "TRI-MODE SYSTEM (M) BERHAD",
+    "stockTicker": "TRIMODE",
+    "stockCode": "0199"
+  },
+  {
+    "stockName": "VOLCANO BERHAD",
+    "stockTicker": "VOLCANO",
+    "stockCode": "0232"
+  },
+  {
+    "stockName": "UNITRADE INDUSTRIES BERHAD",
+    "stockTicker": "UNITRAD",
+    "stockCode": "0247"
+  },
+  {
+    "stockName": "UMEDIC GROUP BERHAD",
+    "stockTicker": "UMC",
+    "stockCode": "0256"
+  },
+  {
+    "stockName": "UNIQUE FIRE HOLDINGS BERHAD",
+    "stockTicker": "UNIQUE",
+    "stockCode": "0257"
+  },
+  {
+    "stockName": "WELLSPIRE HOLDINGS BERHAD",
+    "stockTicker": "WELLS",
+    "stockCode": "0271"
+  },
+  {
+    "stockName": "TT VISION HOLDINGS BERHAD",
+    "stockTicker": "TTVHB",
+    "stockCode": "0272"
+  },
+  {
+    "stockName": "VESTLAND BERHAD",
+    "stockTicker": "VLB",
+    "stockCode": "0273"
+  },
+  {
+    "stockName": "TSA GROUP BERHAD",
+    "stockTicker": "TSA",
+    "stockCode": "0297"
+  },
+  {
+    "stockName": "UUE HOLDINGS BERHAD",
+    "stockTicker": "UUE",
+    "stockCode": "0310"
+  },
+  {
+    "stockName": "UEM EDGENTA BERHAD",
+    "stockTicker": "EDGENTA",
+    "stockCode": "1368"
+  },
+  {
+    "stockName": "UNITED PLANTATIONS BERHAD",
+    "stockTicker": "UTDPLT",
+    "stockCode": "2089"
+  },
+  {
+    "stockName": "UNITED MALACCA BERHAD",
+    "stockTicker": "UMCCA",
+    "stockCode": "2593"
+  },
+  {
+    "stockName": "UNI WALL APS HOLDINGS BERHAD",
+    "stockTicker": "UNIWALL",
+    "stockCode": "03017"
+  },
+  {
+    "stockName": "UCI RESOURCES BERHAD",
+    "stockTicker": "UTAMA",
+    "stockCode": "03043"
+  },
+  {
+    "stockName": "WCE HOLDINGS BERHAD",
+    "stockTicker": "WCEHB",
+    "stockCode": "3565"
+  },
+  {
+    "stockName": "TURIYA BERHAD",
+    "stockTicker": "TURIYA",
+    "stockCode": "4359"
+  },
+  {
+    "stockName": "VERSATILE CREATIVE BERHAD",
+    "stockTicker": "VERSATL",
+    "stockCode": "4995"
+  },
+  {
+    "stockName": "UNISEM (M) BERHAD",
+    "stockTicker": "UNISEM",
+    "stockCode": "5005"
+  },
+  {
+    "stockName": "VARIA BERHAD",
+    "stockTicker": "VARIA",
+    "stockCode": "5006"
+  },
+  {
+    "stockName": "WARISAN TC HOLDINGS BERHAD",
+    "stockTicker": "WARISAN",
+    "stockCode": "5016"
+  },
+  {
+    "stockName": "TSR CAPITAL BERHAD",
+    "stockTicker": "TSRCAP",
+    "stockCode": "5042"
+  },
+  {
+    "stockName": "TRC SYNERGY BERHAD",
+    "stockTicker": "TRC",
+    "stockCode": "5054"
+  },
+  {
+    "stockName": "UOA REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "UOAREIT",
+    "stockCode": "5110"
+  },
+  {
+    "stockName": "WASCO BERHAD",
+    "stockTicker": "WASCO",
+    "stockCode": "5142"
+  },
+  {
+    "stockName": "UEM SUNRISE BERHAD",
+    "stockTicker": "UEMS",
+    "stockCode": "5148"
+  },
+  {
+    "stockName": "VSTECS BERHAD",
+    "stockTicker": "VSTECS",
+    "stockCode": "5162"
+  },
+  {
+    "stockName": "TURBO-MECH BERHAD",
+    "stockTicker": "TURBO",
+    "stockCode": "5167"
+  },
+  {
+    "stockName": "UOA DEVELOPMENT BHD",
+    "stockTicker": "UOADEV",
+    "stockCode": "5200"
+  },
+  {
+    "stockName": "TUNE PROTECT GROUP BERHAD",
+    "stockTicker": "TUNEPRO",
+    "stockCode": "5230"
+  },
+  {
+    "stockName": "VELESTO ENERGY BERHAD",
+    "stockTicker": "VELESTO",
+    "stockCode": "5243"
+  },
+  {
+    "stockName": "UWC BERHAD",
+    "stockTicker": "UWC",
+    "stockCode": "5292"
+  },
+  {
+    "stockName": "TUJU SETIA BERHAD",
+    "stockTicker": "TJSETIA",
+    "stockCode": "5297"
+  },
+  {
+    "stockName": "WELL CHIP GROUP BERHAD",
+    "stockTicker": "WELLCHIP",
+    "stockCode": "5325"
+  },
+  {
+    "stockName": "TROPICANA CORPORATION BERHAD",
+    "stockTicker": "TROP",
+    "stockCode": "5401"
+  },
+  {
+    "stockName": "V.S. INDUSTRY BERHAD",
+    "stockTicker": "VS",
+    "stockCode": "6963"
+  },
+  {
+    "stockName": "VIZIONE HOLDINGS BERHAD",
+    "stockTicker": "VIZIONE",
+    "stockCode": "7070"
+  },
+  {
+    "stockName": "TWL HOLDINGS BERHAD",
+    "stockTicker": "TWL",
+    "stockCode": "7079"
+  },
+  {
+    "stockName": "UNIMECH GROUP BERHAD",
+    "stockTicker": "UNIMECH",
+    "stockCode": "7091"
+  },
+  {
+    "stockName": "UCHI TECHNOLOGIES BERHAD",
+    "stockTicker": "UCHITEC",
+    "stockCode": "7100"
+  },
+  {
+    "stockName": "UNITED U-LI CORPORATION BERHAD",
+    "stockTicker": "ULICORP",
+    "stockCode": "7133"
+  },
+  {
+    "stockName": "UMS HOLDINGS BERHAD",
+    "stockTicker": "UMS",
+    "stockCode": "7137"
+  },
+  {
+    "stockName": "VELOCITY CAPITAL PARTNER BERHAD",
+    "stockTicker": "VELOCITY",
+    "stockCode": "7165"
+  },
+  {
+    "stockName": "WANG-ZHENG BERHAD",
+    "stockTicker": "WANGZNG",
+    "stockCode": "7203"
+  },
+  {
+    "stockName": "WATTA HOLDING BERHAD",
+    "stockTicker": "WATTA",
+    "stockCode": "7226"
+  },
+  {
+    "stockName": "UMS-NEIKEN GROUP BERHAD",
+    "stockTicker": "UMSNGB",
+    "stockCode": "7227"
+  },
+  {
+    "stockName": "WELLCALL HOLDINGS BERHAD",
+    "stockTicker": "WELLCAL",
+    "stockCode": "7231"
+  },
+  {
+    "stockName": "UZMA BERHAD",
+    "stockTicker": "UZMA",
+    "stockCode": "7250"
+  },
+  {
+    "stockName": "UPA CORPORATION BHD",
+    "stockTicker": "UPA",
+    "stockCode": "7757"
+  },
+  {
+    "stockName": "TSH RESOURCES BERHAD",
+    "stockTicker": "TSH",
+    "stockCode": "9059"
+  },
+  {
+    "stockName": "VP-DJ SHARIAH CHINA A-SHARES 100 ETF - MYR",
+    "stockTicker": "CHINA100-MYR",
+    "stockCode": "0838EA"
+  },
+  {
+    "stockName": "WILLOWGLEN MSC BERHAD",
+    "stockTicker": "WILLOW",
+    "stockCode": "0008"
+  },
+  {
+    "stockName": "XOX TECHNOLOGY BERHAD",
+    "stockTicker": "NOVATECH",
+    "stockCode": "0017"
+  },
+  {
+    "stockName": "LAMBO GROUP BERHAD",
+    "stockTicker": "LAMBO",
+    "stockCode": "0018"
+  },
+  {
+    "stockName": "NETX HOLDINGS BERHAD",
+    "stockTicker": "NETX",
+    "stockCode": "0020"
+  },
+  {
+    "stockName": "YBS INTERNATIONAL BERHAD",
+    "stockTicker": "YBS",
+    "stockCode": "0025"
+  },
+  {
+    "stockName": "NOVA MSC BERHAD",
+    "stockTicker": "NOVAMSC",
+    "stockCode": "0026"
+  },
+  {
+    "stockName": "REDTONE DIGITAL BERHAD",
+    "stockTicker": "REDTONE",
+    "stockCode": "0032"
+  },
+  {
+    "stockName": "MMAG HOLDINGS BERHAD",
+    "stockTicker": "MMAG",
+    "stockCode": "0034"
+  },
+  {
+    "stockName": "RGB INTERNATIONAL BHD",
+    "stockTicker": "RGB",
+    "stockCode": "0037"
+  },
+  {
+    "stockName": "OPENSYS (M) BERHAD",
+    "stockTicker": "OPENSYS",
+    "stockCode": "0040"
+  },
+  {
+    "stockName": "METRONIC GLOBAL BERHAD",
+    "stockTicker": "MTRONIC",
+    "stockCode": "0043"
+  },
+  {
+    "stockName": "OCEANCASH PACIFIC BERHAD",
+    "stockTicker": "OCNCASH",
+    "stockCode": "0049"
+  },
+  {
+    "stockName": "OSK VENTURES INTERNATIONAL BERHAD",
+    "stockTicker": "OSKVI",
+    "stockCode": "0053"
+  },
+  {
+    "stockName": "NCT ALLIANCE BERHAD",
+    "stockTicker": "NCT",
+    "stockCode": "0056"
+  },
+  {
+    "stockName": "MQ TECHNOLOGY BERHAD",
+    "stockTicker": "MQTECH",
+    "stockCode": "0070"
+  },
+  {
+    "stockName": "LYC HEALTHCARE BERHAD",
+    "stockTicker": "LYC",
+    "stockCode": "0075"
+  },
+  {
+    "stockName": "STRAITS ENERGY RESOURCES BERHAD",
+    "stockTicker": "STRAITS",
+    "stockCode": "0080"
+  },
+  {
+    "stockName": "REKATECH CAPITAL BERHAD",
+    "stockTicker": "REKATECH",
+    "stockCode": "0081"
+  },
+  {
+    "stockName": "NOTION VTEC BERHAD",
+    "stockTicker": "NOTION",
+    "stockCode": "0083"
+  },
+  {
+    "stockName": "MLABS SYSTEMS BERHAD",
+    "stockTicker": "MLAB",
+    "stockCode": "0085"
+  },
+  {
+    "stockName": "YGL CONVERGENCE BERHAD",
+    "stockTicker": "YGL",
+    "stockCode": "0086"
+  },
+  {
+    "stockName": "TEX CYCLE TECHNOLOGY (M) BERHAD",
+    "stockTicker": "TEXCYCL",
+    "stockCode": "0089"
+  },
+  {
+    "stockName": "PROPEL GLOBAL BERHAD",
+    "stockTicker": "PGB",
+    "stockCode": "0091"
+  },
+  {
+    "stockName": "MTOUCHE TECHNOLOGY BERHAD",
+    "stockTicker": "MTOUCHE",
+    "stockCode": "0092"
+  },
+  {
+    "stockName": "SOLUTION GROUP BERHAD",
+    "stockTicker": "SOLUTN",
+    "stockCode": "0093"
+  },
+  {
+    "stockName": "ZEN TECH INTERNATIONAL BERHAD",
+    "stockTicker": "ZENTECH",
+    "stockCode": "0094"
+  },
+  {
+    "stockName": "MAG HOLDINGS BERHAD",
+    "stockTicker": "MAG",
+    "stockCode": "0095"
+  },
+  {
+    "stockName": "NEXGRAM HOLDINGS BERHAD",
+    "stockTicker": "NEXGRAM",
+    "stockCode": "0096"
+  },
+  {
+    "stockName": "SCICOM (MSC) BERHAD",
+    "stockTicker": "SCICOM",
+    "stockCode": "0099"
+  },
+  {
+    "stockName": "TMC LIFE SCIENCES BERHAD",
+    "stockTicker": "TMCLIFE",
+    "stockCode": "0101"
+  },
+  {
+    "stockName": "M N C WIRELESS BERHAD",
+    "stockTicker": "MNC",
+    "stockCode": "0103"
+  },
+  {
+    "stockName": "REXIT BERHAD",
+    "stockTicker": "OMAI",
+    "stockCode": "0106"
+  },
+  {
+    "stockName": "N2N CONNECT BERHAD",
+    "stockTicker": "N2N",
+    "stockCode": "0108"
+  },
+  {
+    "stockName": "SC ESTATE BUILDER BERHAD",
+    "stockTicker": "SCBUILD",
+    "stockCode": "0109"
+  },
+  {
+    "stockName": "K-ONE TECHNOLOGY BERHAD",
+    "stockTicker": "K1",
+    "stockCode": "0111"
+  },
+  {
+    "stockName": "MIKRO MSC BERHAD",
+    "stockTicker": "MIKROMB",
+    "stockCode": "0112"
+  },
+  {
+    "stockName": "MMS VENTURES BERHAD",
+    "stockTicker": "MMSV",
+    "stockCode": "0113"
+  },
+  {
+    "stockName": "SMRT HOLDINGS BERHAD",
+    "stockTicker": "SMRT",
+    "stockCode": "0117"
+  },
+  {
+    "stockName": "PRIVASIA TECHNOLOGY BERHAD",
+    "stockTicker": "PRIVA",
+    "stockCode": "0123"
+  },
+  {
+    "stockName": "MICROLINK SOLUTIONS BERHAD",
+    "stockTicker": "MICROLN",
+    "stockCode": "0126"
+  },
+  {
+    "stockName": "SILVER RIDGE HOLDINGS BHD",
+    "stockTicker": "SRIDGE",
+    "stockCode": "0129"
+  },
+  {
+    "stockName": "TECHNODEX BHD",
+    "stockTicker": "TDEX",
+    "stockCode": "0132"
+  },
+  {
+    "stockName": "SANICHI TECHNOLOGY BERHAD",
+    "stockTicker": "SANICHI",
+    "stockCode": "0133"
+  },
+  {
+    "stockName": "MY E.G. SERVICES BERHAD",
+    "stockTicker": "ZETRIX",
+    "stockCode": "0138"
+  },
+  {
+    "stockName": "XOX NETWORKS BERHAD",
+    "stockTicker": "XOXNET",
+    "stockCode": "0140"
+  },
+  {
+    "stockName": "TFP SOLUTIONS BERHAD",
+    "stockTicker": "TFP",
+    "stockCode": "0145"
+  },
+  {
+    "stockName": "SUNZEN BIOTECH BERHAD",
+    "stockTicker": "SUNZEN",
+    "stockCode": "0148"
+  },
+  {
+    "stockName": "OVERSEA ENTERPRISE BERHAD",
+    "stockTicker": "OVERSEA",
+    "stockCode": "0153"
+  },
+  {
+    "stockName": "MALAYSIAN GENOMICS RESOURCE CENTRE BERHAD",
+    "stockTicker": "MGRC",
+    "stockCode": "0155"
+  },
+  {
+    "stockName": "MANAGEPAY SYSTEMS BERHAD",
+    "stockTicker": "MPAY",
+    "stockCode": "0156"
+  },
+  {
+    "stockName": "SCC HOLDINGS BERHAD",
+    "stockTicker": "SCC",
+    "stockCode": "0158"
+  },
+  {
+    "stockName": "MMM GROUP BERHAD",
+    "stockTicker": "AMEDIA",
+    "stockCode": "0159"
+  },
+  {
+    "stockName": "WIDAD GROUP BERHAD",
+    "stockTicker": "WIDAD",
+    "stockCode": "0162"
+  },
+  {
+    "stockName": "XOX BHD",
+    "stockTicker": "XOX",
+    "stockCode": "0165"
+  },
+  {
+    "stockName": "MCLEAN TECHNOLOGIES BERHAD",
+    "stockTicker": "MCLEAN",
+    "stockCode": "0167"
+  },
+  {
+    "stockName": "SMTRACK BERHAD",
+    "stockTicker": "SMTRACK",
+    "stockCode": "0169"
+  },
+  {
+    "stockName": "OCK GROUP BERHAD",
+    "stockTicker": "OCK",
+    "stockCode": "0172"
+  },
+  {
+    "stockName": "KRONOLOGI ASIA BERHAD",
+    "stockTicker": "KRONO",
+    "stockCode": "0176"
+  },
+  {
+    "stockName": "SEDANIA INNOVATOR BERHAD",
+    "stockTicker": "SEDANIA",
+    "stockCode": "0178"
+  },
+  {
+    "stockName": "LKL INTERNATIONAL BERHAD",
+    "stockTicker": "LKL",
+    "stockCode": "0182"
+  },
+  {
+    "stockName": "SALUTICA BERHAD",
+    "stockTicker": "SALUTE",
+    "stockCode": "0183"
+  },
+  {
+    "stockName": "MATANG BERHAD",
+    "stockTicker": "MATANG",
+    "stockCode": "0189"
+  },
+  {
+    "stockName": "QES GROUP BERHAD",
+    "stockTicker": "QES",
+    "stockCode": "0196"
+  },
+  {
+    "stockName": "REVENUE GROUP BERHAD",
+    "stockTicker": "REVENUE",
+    "stockCode": "0200"
+  },
+  {
+    "stockName": "NOVA WELLNESS GROUP BERHAD",
+    "stockTicker": "NOVA",
+    "stockCode": "0201"
+  },
+  {
+    "stockName": "RADIANT GLOBALTECH BERHAD",
+    "stockTicker": "RGTECH",
+    "stockCode": "0202"
+  },
+  {
+    "stockName": "SECUREMETRIC BERHAD",
+    "stockTicker": "SMETRIC",
+    "stockCode": "0203"
+  },
+  {
+    "stockName": "MESTRON HOLDINGS BERHAD",
+    "stockTicker": "MESTRON",
+    "stockCode": "0207"
+  },
+  {
+    "stockName": "TASHIN HOLDINGS BERHAD",
+    "stockTicker": "TASHIN",
+    "stockCode": "0211"
+  },
+  {
+    "stockName": "SDS GROUP BERHAD",
+    "stockTicker": "SDS",
+    "stockCode": "0212"
+  },
+  {
+    "stockName": "MTAG GROUP BERHAD",
+    "stockTicker": "MTAG",
+    "stockCode": "0213"
+  },
+  {
+    "stockName": "SOLARVEST HOLDINGS BERHAD",
+    "stockTicker": "SLVEST",
+    "stockCode": "0215"
+  },
+  {
+    "stockName": "SPRING ART HOLDINGS BERHAD",
+    "stockTicker": "SPRING",
+    "stockCode": "0216"
+  },
+  {
+    "stockName": "RESERVOIR LINK ENERGY BHD",
+    "stockTicker": "RL",
+    "stockCode": "0219"
+  },
+  {
+    "stockName": "OCEAN VANTAGE HOLDINGS BERHAD",
+    "stockTicker": "OVH",
+    "stockCode": "0220"
+  },
+  {
+    "stockName": "TCS GROUP HOLDINGS BERHAD",
+    "stockTicker": "TCS",
+    "stockCode": "0221"
+  },
+  {
+    "stockName": "OPTIMAX HOLDINGS BERHAD",
+    "stockTicker": "OPTIMAX",
+    "stockCode": "0222"
+  },
+  {
+    "stockName": "SAMAIDEN GROUP BERHAD",
+    "stockTicker": "SAMAIDEN",
+    "stockCode": "0223"
+  },
+  {
+    "stockName": "SOUTHERN CABLE GROUP BERHAD",
+    "stockTicker": "SCGBHD",
+    "stockCode": "0225"
+  },
+  {
+    "stockName": "MOBILIA HOLDINGS BERHAD",
+    "stockTicker": "MOBILIA",
+    "stockCode": "0229"
+  },
+  {
+    "stockName": "TELADAN GROUP BERHAD",
+    "stockTicker": "TELADAN",
+    "stockCode": "0230"
+  },
+  {
+    "stockName": "NESTCON BERHAD",
+    "stockTicker": "NESTCON",
+    "stockCode": "0235"
+  },
+  {
+    "stockName": "RAMSSOL GROUP BERHAD",
+    "stockTicker": "RAMSSOL",
+    "stockCode": "0236"
+  },
+  {
+    "stockName": "SIAB HOLDINGS BERHAD",
+    "stockTicker": "TAGHILL",
+    "stockCode": "0241"
+  },
+  {
+    "stockName": "MN HOLDINGS BERHAD",
+    "stockTicker": "MNHLDG",
+    "stockCode": "0245"
+  },
+  {
+    "stockName": "YEW LEE PACIFIC GROUP BERHAD",
+    "stockTicker": "YEWLEE",
+    "stockCode": "0248"
+  },
+  {
+    "stockName": "LGMS BERHAD",
+    "stockTicker": "LGMS",
+    "stockCode": "0249"
+  },
+  {
+    "stockName": "YX PRECIOUS METALS BHD",
+    "stockTicker": "YXPM",
+    "stockCode": "0250"
+  },
+  {
+    "stockName": "SFP TECH HOLDINGS BERHAD",
+    "stockTicker": "SFPTECH",
+    "stockCode": "0251"
+  },
+  {
+    "stockName": "ORGABIO HOLDINGS BERHAD",
+    "stockTicker": "ORGABIO",
+    "stockCode": "0252"
+  },
+  {
+    "stockName": "SNS NETWORK TECHNOLOGY BERHAD",
+    "stockTicker": "SNS",
+    "stockCode": "0259"
+  },
+  {
+    "stockName": "PT RESOURCES HOLDINGS BERHAD",
+    "stockTicker": "PTRB",
+    "stockCode": "0260"
+  },
+  {
+    "stockName": "SUNVIEW GROUP BERHAD",
+    "stockTicker": "SUNVIEW",
+    "stockCode": "0262"
+  },
+  {
+    "stockName": "LEFORM BERHAD",
+    "stockTicker": "LEFORM",
+    "stockCode": "0266"
+  },
+  {
+    "stockName": "L&P GLOBAL BERHAD",
+    "stockTicker": "L&PBHD",
+    "stockCode": "0268"
+  },
+  {
+    "stockName": "NATIONGATE HOLDINGS BERHAD",
+    "stockTicker": "NATGATE",
+    "stockCode": "0270"
+  },
+  {
+    "stockName": "OPPSTAR BERHAD",
+    "stockTicker": "OPPSTAR",
+    "stockCode": "0275"
+  },
+  {
+    "stockName": "SYNERGY HOUSE BERHAD",
+    "stockTicker": "SYNERGY",
+    "stockCode": "0279"
+  },
+  {
+    "stockName": "MYMBN BERHAD",
+    "stockTicker": "MBN",
+    "stockCode": "0280"
+  },
+  {
+    "stockName": "MERCURY SECURITIES GROUP BERHAD",
+    "stockTicker": "MERSEC",
+    "stockCode": "0285"
+  },
+  {
+    "stockName": "SSF HOME GROUP BERHAD",
+    "stockTicker": "SSF",
+    "stockCode": "0287"
+  },
+  {
+    "stockName": "MINOX INTERNATIONAL GROUP BERHAD",
+    "stockTicker": "MINOX",
+    "stockCode": "0288"
+  },
+  {
+    "stockName": "MASTER TEC GROUP BERHAD",
+    "stockTicker": "MTEC",
+    "stockCode": "0295"
+  },
+  {
+    "stockName": "WENTEL ENGINEERING HOLDINGS BERHAD",
+    "stockTicker": "WENTEL",
+    "stockCode": "0298"
+  },
+  {
+    "stockName": "SBH MARINE HOLDINGS BERHAD",
+    "stockTicker": "SBH",
+    "stockCode": "0300"
+  },
+  {
+    "stockName": "ZANTAT HOLDINGS BERHAD",
+    "stockTicker": "ZANTAT",
+    "stockCode": "0301"
+  },
+  {
+    "stockName": "TOPMIX BERHAD",
+    "stockTicker": "TOPMIX",
+    "stockCode": "0302"
+  },
+  {
+    "stockName": "SIN-KUNG LOGISTICS BERHAD",
+    "stockTicker": "SINKUNG",
+    "stockCode": "0305"
+  },
+  {
+    "stockName": "SMART ASIA CHEMICAL BHD",
+    "stockTicker": "SMART",
+    "stockCode": "0306"
+  },
+  {
+    "stockName": "KTI LANDMARK BERHAD",
+    "stockTicker": "KTI",
+    "stockCode": "0308"
+  },
+  {
+    "stockName": "OCEAN FRESH BERHAD",
+    "stockTicker": "OFB",
+    "stockCode": "0312"
+  },
+  {
+    "stockName": "KUCINGKO BERHAD",
+    "stockTicker": "KUCINGKO",
+    "stockCode": "0315"
+  },
+  {
+    "stockName": "MANULIFE HOLDINGS BERHAD",
+    "stockTicker": "MANULFE",
+    "stockCode": "1058"
+  },
+  {
+    "stockName": "RHB BANK BERHAD",
+    "stockTicker": "RHBBANK",
+    "stockCode": "1066"
+  },
+  {
+    "stockName": "MALAYAN BANKING BERHAD",
+    "stockTicker": "MAYBANK",
+    "stockCode": "1155"
+  },
+  {
+    "stockName": "MBSB BERHAD",
+    "stockTicker": "MBSB",
+    "stockCode": "1171"
+  },
+  {
+    "stockName": "MAA GROUP BERHAD",
+    "stockTicker": "MAA",
+    "stockCode": "1198"
+  },
+  {
+    "stockName": "PUBLIC BANK BERHAD",
+    "stockTicker": "PBBANK",
+    "stockCode": "1295"
+  },
+  {
+    "stockName": "SYMPHONY LIFE BERHAD",
+    "stockTicker": "SYMLIFE",
+    "stockCode": "1538"
+  },
+  {
+    "stockName": "SPORTS TOTO BERHAD",
+    "stockTicker": "SPTOTO",
+    "stockCode": "1562"
+  },
+  {
+    "stockName": "LANDMARKS BERHAD",
+    "stockTicker": "LANDMRK",
+    "stockCode": "1643"
+  },
+  {
+    "stockName": "MALAYSIAN RESOURCES CORPORATION BERHAD",
+    "stockTicker": "MRCB",
+    "stockCode": "1651"
+  },
+  {
+    "stockName": "MENANG CORPORATION (M) BERHAD",
+    "stockTicker": "MENANG",
+    "stockCode": "1694"
+  },
+  {
+    "stockName": "KRETAM HOLDINGS BERHAD",
+    "stockTicker": "KRETAM",
+    "stockCode": "1996"
+  },
+  {
+    "stockName": "NEGRI SEMBILAN OIL PALMS BERHAD",
+    "stockTicker": "NSOP",
+    "stockCode": "2038"
+  },
+  {
+    "stockName": "TDM BERHAD",
+    "stockTicker": "TDM",
+    "stockCode": "2054"
+  },
+  {
+    "stockName": "META BRIGHT GROUP BERHAD",
+    "stockTicker": "MBRIGHT",
+    "stockCode": "2097"
+  },
+  {
+    "stockName": "KUCHAI DEVELOPMENT BERHAD",
+    "stockTicker": "KUCHAI",
+    "stockCode": "2186"
+  },
+  {
+    "stockName": "SELANGOR DREDGING BERHAD",
+    "stockTicker": "SDRED",
+    "stockCode": "2224"
+  },
+  {
+    "stockName": "TALAM TRANSFORM BERHAD",
+    "stockTicker": "TALAMT",
+    "stockCode": "2259"
+  },
+  {
+    "stockName": "ZELAN BERHAD",
+    "stockTicker": "ZELAN",
+    "stockCode": "2283"
+  },
+  {
+    "stockName": "TANCO HOLDINGS BERHAD",
+    "stockTicker": "TANCO",
+    "stockCode": "2429"
+  },
+  {
+    "stockName": "KUALA LUMPUR KEPONG BERHAD",
+    "stockTicker": "KLK",
+    "stockCode": "2445"
+  },
+  {
+    "stockName": "KLUANG RUBBER COMPANY (MALAYA) BERHAD",
+    "stockTicker": "KLUANG",
+    "stockCode": "2453"
+  },
+  {
+    "stockName": "RIVERVIEW RUBBER ESTATES BERHAD",
+    "stockTicker": "RVIEW",
+    "stockCode": "2542"
+  },
+  {
+    "stockName": "SUNGEI BAGAN RUBBER COMPANY (MALAYA) BERHAD",
+    "stockTicker": "SBAGAN",
+    "stockCode": "2569"
+  },
+  {
+    "stockName": "TECHNA-X BERHAD",
+    "stockTicker": "TECHNAX",
+    "stockCode": "2739"
+  },
+  {
+    "stockName": "RED IDEAS HOLDINGS BERHAD",
+    "stockTicker": "JAGAAPP",
+    "stockCode": "03002"
+  },
+  {
+    "stockName": "METRO HEALTHCARE BERHAD",
+    "stockTicker": "MHCARE",
+    "stockCode": "03005"
+  },
+  {
+    "stockName": "NOVA PHARMA SOLUTIONS BERHAD",
+    "stockTicker": "NPS",
+    "stockCode": "03006"
+  },
+  {
+    "stockName": "SL INNOVATION CAPITAL BERHAD",
+    "stockTicker": "SLIC",
+    "stockCode": "03008"
+  },
+  {
+    "stockName": "SEERS BERHAD",
+    "stockTicker": "SEERS",
+    "stockCode": "03009"
+  },
+  {
+    "stockName": "TOPVISION EYE SPECIALIST BERHAD",
+    "stockTicker": "TOPVSN",
+    "stockCode": "03013"
+  },
+  {
+    "stockName": "MANFORCE GROUP BERHAD",
+    "stockTicker": "MANFORCE",
+    "stockCode": "03015"
+  },
+  {
+    "stockName": "OLYMPIA INDUSTRIES BERHAD",
+    "stockTicker": "OLYMPIA",
+    "stockCode": "3018"
+  },
+  {
+    "stockName": "SUPREME CONSOLIDATED RESOURCES BERHAD",
+    "stockTicker": "SCR",
+    "stockCode": "03018"
+  },
+  {
+    "stockName": "MATRIX PARKING SOLUTION HOLDINGS BERHAD",
+    "stockTicker": "MPSOL",
+    "stockCode": "03019"
+  },
+  {
+    "stockName": "MCOM HOLDINGS BERHAD",
+    "stockTicker": "MCOM",
+    "stockCode": "03022"
+  },
+  {
+    "stockName": "SMILE-LINK HEALTHCARE GLOBAL BERHAD",
+    "stockTicker": "SMILE",
+    "stockCode": "03023"
+  },
+  {
+    "stockName": "MMIS BERHAD",
+    "stockTicker": "MMIS",
+    "stockCode": "03027"
+  },
+  {
+    "stockName": "SUPERGENICS BERHAD",
+    "stockTicker": "SGBHD",
+    "stockCode": "03033"
+  },
+  {
+    "stockName": "REDPLANET BERHAD",
+    "stockTicker": "RPLANET",
+    "stockCode": "03036"
+  },
+  {
+    "stockName": "RTS TECHNOLOGY HOLDINGS BERHAD",
+    "stockTicker": "RTSTECH",
+    "stockCode": "03039"
+  },
+  {
+    "stockName": "ONETECH SOLUTIONS HOLDINGS BERHAD",
+    "stockTicker": "1TECH",
+    "stockCode": "03041"
+  },
+  {
+    "stockName": "NOVELPLUS TECHNOLOGY BERHAD",
+    "stockTicker": "NP",
+    "stockCode": "03045"
+  },
+  {
+    "stockName": "LIM SEONG HAI CAPITAL BERHAD",
+    "stockTicker": "LSHBHD",
+    "stockCode": "03047"
+  },
+  {
+    "stockName": "STEEL HAWK BERHAD",
+    "stockTicker": "SKHAWK",
+    "stockCode": "03049"
+  },
+  {
+    "stockName": "SUNMOW HOLDING BERHAD",
+    "stockTicker": "SUNMOW",
+    "stockCode": "03050"
+  },
+  {
+    "stockName": "RAY GO SOLAR HOLDINGS BERHAD",
+    "stockTicker": "RGS",
+    "stockCode": "03052"
+  },
+  {
+    "stockName": "SNOWFIT GROUP BERHAD",
+    "stockTicker": "SNOWFIT",
+    "stockCode": "03054"
+  },
+  {
+    "stockName": "SAFETYWARE GROUP BERHAD",
+    "stockTicker": "SAFETY",
+    "stockCode": "03056"
+  },
+  {
+    "stockName": "SANCY BERHAD",
+    "stockTicker": "SANCY",
+    "stockCode": "03057"
+  },
+  {
+    "stockName": "TOTAL DYNAMIC HOLDINGS BERHAD",
+    "stockTicker": "DYNAMIC",
+    "stockCode": "03058"
+  },
+  {
+    "stockName": "MEGA FIRST CORPORATION BERHAD",
+    "stockTicker": "MFCB",
+    "stockCode": "3069"
+  },
+  {
+    "stockName": "YNH PROPERTY BERHAD",
+    "stockTicker": "YNHPROP",
+    "stockCode": "3158"
+  },
+  {
+    "stockName": "LAND & GENERAL BERHAD",
+    "stockTicker": "L&G",
+    "stockCode": "3174"
+  },
+  {
+    "stockName": "MARCO HOLDINGS BERHAD",
+    "stockTicker": "MARCO",
+    "stockCode": "3514"
+  },
+  {
+    "stockName": "LIEN HOE CORPORATION BERHAD",
+    "stockTicker": "LIENHOE",
+    "stockCode": "3573"
+  },
+  {
+    "stockName": "MALAYAN FLOUR MILLS BERHAD",
+    "stockTicker": "MFLOUR",
+    "stockCode": "3662"
+  },
+  {
+    "stockName": "SUNSURIA BERHAD",
+    "stockTicker": "SUNSURIA",
+    "stockCode": "3743"
+  },
+  {
+    "stockName": "MELEWAR INDUSTRIAL GROUP BERHAD",
+    "stockTicker": "MELEWAR",
+    "stockCode": "3778"
+  },
+  {
+    "stockName": "MALAYAN CEMENT BERHAD",
+    "stockTicker": "MCEMENT",
+    "stockCode": "3794"
+  },
+  {
+    "stockName": "MISC BERHAD",
+    "stockTicker": "MISC",
+    "stockCode": "3816"
+  },
+  {
+    "stockName": "MAGNUM BERHAD",
+    "stockTicker": "MAGNUM",
+    "stockCode": "3859"
+  },
+  {
+    "stockName": "MALAYSIAN PACIFIC INDUSTRIES BERHAD",
+    "stockTicker": "MPI",
+    "stockCode": "3867"
+  },
+  {
+    "stockName": "MUDA HOLDINGS BERHAD",
+    "stockTicker": "MUDA",
+    "stockCode": "3883"
+  },
+  {
+    "stockName": "MALAYAN UNITED INDUSTRIES BERHAD",
+    "stockTicker": "MUIIND",
+    "stockCode": "3891"
+  },
+  {
+    "stockName": "MULPHA INTERNATIONAL BERHAD",
+    "stockTicker": "MULPHA",
+    "stockCode": "3905"
+  },
+  {
+    "stockName": "MUI PROPERTIES BERHAD",
+    "stockTicker": "MUIPROP",
+    "stockCode": "3913"
+  },
+  {
+    "stockName": "ORIENTAL HOLDINGS BERHAD",
+    "stockTicker": "ORIENT",
+    "stockCode": "4006"
+  },
+  {
+    "stockName": "MAXIM GLOBAL BERHAD",
+    "stockTicker": "MAXIM",
+    "stockCode": "4022"
+  },
+  {
+    "stockName": "SIME DARBY BERHAD",
+    "stockTicker": "SIME",
+    "stockCode": "4197"
+  },
+  {
+    "stockName": "LION INDUSTRIES CORPORATION BERHAD",
+    "stockTicker": "LIONIND",
+    "stockCode": "4235"
+  },
+  {
+    "stockName": "WTK HOLDINGS BERHAD",
+    "stockTicker": "WTK",
+    "stockCode": "4243"
+  },
+  {
+    "stockName": "SEAL INCORPORATED BERHAD",
+    "stockTicker": "SEAL",
+    "stockCode": "4286"
+  },
+  {
+    "stockName": "SIN HENG CHAN (MALAYA) BERHAD",
+    "stockTicker": "SHCHAN",
+    "stockCode": "4316"
+  },
+  {
+    "stockName": "SOUTH MALAYSIA INDUSTRIES BERHAD",
+    "stockTicker": "SMI",
+    "stockCode": "4375"
+  },
+  {
+    "stockName": "TAN CHONG MOTOR HOLDINGS BERHAD",
+    "stockTicker": "TCHONG",
+    "stockCode": "4405"
+  },
+  {
+    "stockName": "MEDIA PRIMA BERHAD",
+    "stockTicker": "MEDIA",
+    "stockCode": "4502"
+  },
+  {
+    "stockName": "SAPURA RESOURCES BERHAD",
+    "stockTicker": "SAPRES",
+    "stockCode": "4596"
+  },
+  {
+    "stockName": "YTL CORPORATION BERHAD",
+    "stockTicker": "YTL",
+    "stockCode": "4677"
+  },
+  {
+    "stockName": "NESTLE (MALAYSIA) BERHAD",
+    "stockTicker": "NESTLE",
+    "stockCode": "4707"
+  },
+  {
+    "stockName": "SCIENTEX BERHAD",
+    "stockTicker": "SCIENTX",
+    "stockCode": "4731"
+  },
+  {
+    "stockName": "TELEKOM MALAYSIA BERHAD",
+    "stockTicker": "TM",
+    "stockCode": "4863"
+  },
+  {
+    "stockName": "MALPAC HOLDINGS BERHAD",
+    "stockTicker": "MALPAC",
+    "stockCode": "4936"
+  },
+  {
+    "stockName": "NYLEX (MALAYSIA) BERHAD",
+    "stockTicker": "NYLEX",
+    "stockCode": "4944"
+  },
+  {
+    "stockName": "MIECO CHIPBOARD BERHAD",
+    "stockTicker": "MIECO",
+    "stockCode": "5001"
+  },
+  {
+    "stockName": "WHITE HORSE BERHAD",
+    "stockTicker": "WTHORSE",
+    "stockCode": "5009"
+  },
+  {
+    "stockName": "TONG HERR RESOURCES BERHAD",
+    "stockTicker": "TONGHER",
+    "stockCode": "5010"
+  },
+  {
+    "stockName": "MESINIAGA BERHAD",
+    "stockTicker": "MSNIAGA",
+    "stockCode": "5011"
+  },
+  {
+    "stockName": "TA ANN HOLDINGS BERHAD",
+    "stockTicker": "TAANN",
+    "stockCode": "5012"
+  },
+  {
+    "stockName": "MALAYSIA AIRPORTS HOLDINGS BERHAD",
+    "stockTicker": "AIRPORT",
+    "stockCode": "5014"
+  },
+  {
+    "stockName": "MHC PLANTATIONS BHD",
+    "stockTicker": "MHC",
+    "stockCode": "5026"
+  },
+  {
+    "stockName": "TIME DOTCOM BERHAD",
+    "stockTicker": "TIMECOM",
+    "stockCode": "5031"
+  },
+  {
+    "stockName": "KNUSFORD BERHAD",
+    "stockTicker": "KNUSFOR",
+    "stockCode": "5035"
+  },
+  {
+    "stockName": "KSL HOLDINGS BERHAD",
+    "stockTicker": "KSL",
+    "stockCode": "5038"
+  },
+  {
+    "stockName": "MERIDIAN BERHAD",
+    "stockTicker": "MERIDIAN",
+    "stockCode": "5040"
+  },
+  {
+    "stockName": "NPC RESOURCES BERHAD",
+    "stockTicker": "NPC",
+    "stockCode": "5047"
+  },
+  {
+    "stockName": "YB VENTURES BERHAD",
+    "stockTicker": "YB",
+    "stockCode": "5048"
+  },
+  {
+    "stockName": "OSK HOLDINGS BERHAD",
+    "stockTicker": "OSK",
+    "stockCode": "5053"
+  },
+  {
+    "stockName": "ORNAPAPER BERHAD",
+    "stockTicker": "ORNA",
+    "stockCode": "5065"
+  },
+  {
+    "stockName": "NTPM HOLDINGS BERHAD",
+    "stockTicker": "NTPM",
+    "stockCode": "5066"
+  },
+  {
+    "stockName": "LUSTER INDUSTRIES BHD.",
+    "stockTicker": "LUSTER",
+    "stockCode": "5068"
+  },
+  {
+    "stockName": "PROTASCO BERHAD",
+    "stockTicker": "PRTASCO",
+    "stockCode": "5070"
+  },
+  {
+    "stockName": "NAIM HOLDINGS BERHAD",
+    "stockTicker": "NAIM",
+    "stockCode": "5073"
+  },
+  {
+    "stockName": "MAYBULK BERHAD",
+    "stockTicker": "MAYBULK",
+    "stockCode": "5077"
+  },
+  {
+    "stockName": "MARINE & GENERAL BERHAD",
+    "stockTicker": "M&G",
+    "stockCode": "5078"
+  },
+  {
+    "stockName": "ONE GLOVE GROUP BERHAD",
+    "stockTicker": "ONEGLOVE",
+    "stockCode": "5079"
+  },
+  {
+    "stockName": "MUDAJAYA GROUP BERHAD",
+    "stockTicker": "MUDAJYA",
+    "stockCode": "5085"
+  },
+  {
+    "stockName": "MYCRON STEEL BERHAD",
+    "stockTicker": "MYCRON",
+    "stockCode": "5087"
+  },
+  {
+    "stockName": "MEDIA CHINESE INTERNATIONAL LIMITED",
+    "stockTicker": "MEDIAC",
+    "stockCode": "5090"
+  },
+  {
+    "stockName": "MALAYSIA STEEL WORKS (KL) BHD",
+    "stockTicker": "MASTEEL",
+    "stockCode": "5098"
+  },
+  {
+    "stockName": "YTL HOSPITALITY REIT",
+    "stockTicker": "YTLREIT",
+    "stockCode": "5109"
+  },
+  {
+    "stockName": "TH PLANTATIONS BERHAD",
+    "stockTicker": "THPLANT",
+    "stockCode": "5112"
+  },
+  {
+    "stockName": "RIMBUNAN SAWIT BERHAD",
+    "stockTicker": "RSAWIT",
+    "stockCode": "5113"
+  },
+  {
+    "stockName": "SENTRAL REIT",
+    "stockTicker": "SENTRAL",
+    "stockCode": "5123"
+  },
+  {
+    "stockName": "SARAWAK OIL PALMS BERHAD",
+    "stockTicker": "SOP",
+    "stockCode": "5126"
+  },
+  {
+    "stockName": "MELATI EHSAN HOLDINGS BERHAD",
+    "stockTicker": "MELATI",
+    "stockCode": "5129"
+  },
+  {
+    "stockName": "ZHULIAN CORPORATION BERHAD",
+    "stockTicker": "ZHULIAN",
+    "stockCode": "5131"
+  },
+  {
+    "stockName": "SOUTHERN ACIDS (M) BERHAD",
+    "stockTicker": "SAB",
+    "stockCode": "5134"
+  },
+  {
+    "stockName": "SARAWAK PLANTATION BERHAD",
+    "stockTicker": "SWKPLNT",
+    "stockCode": "5135"
+  },
+  {
+    "stockName": "TASCO BERHAD",
+    "stockTicker": "TASCO",
+    "stockCode": "5140"
+  },
+  {
+    "stockName": "LUXCHEM CORPORATION BERHAD",
+    "stockTicker": "LUXCHEM",
+    "stockCode": "5143"
+  },
+  {
+    "stockName": "SEALINK INTERNATIONAL BERHAD",
+    "stockTicker": "SEALINK",
+    "stockCode": "5145"
+  },
+  {
+    "stockName": "SAMCHEM HOLDINGS BERHAD",
+    "stockTicker": "SAMCHEM",
+    "stockCode": "5147"
+  },
+  {
+    "stockName": "TAS OFFSHORE BERHAD",
+    "stockTicker": "TAS",
+    "stockCode": "5149"
+  },
+  {
+    "stockName": "MUAR BAN LEE GROUP BERHAD",
+    "stockTicker": "MBL",
+    "stockCode": "5152"
+  },
+  {
+    "stockName": "XIDELANG HOLDINGS LTD",
+    "stockTicker": "XDL",
+    "stockCode": "5156"
+  },
+  {
+    "stockName": "SAUDEE GROUP BERHAD",
+    "stockTicker": "SG",
+    "stockCode": "5157"
+  },
+  {
+    "stockName": "YOONG ONN CORPORATION BERHAD",
+    "stockTicker": "YOCB",
+    "stockCode": "5159"
+  },
+  {
+    "stockName": "SEREMBAN ENGINEERING BERHAD",
+    "stockTicker": "SEB",
+    "stockCode": "5163"
+  },
+  {
+    "stockName": "SARAWAK CABLE BERHAD",
+    "stockTicker": "SCABLE",
+    "stockCode": "5170"
+  },
+  {
+    "stockName": "SINARAN ADVANCE GROUP BERHAD",
+    "stockTicker": "SINARAN",
+    "stockCode": "5172"
+  },
+  {
+    "stockName": "SHIN YANG GROUP BERHAD",
+    "stockTicker": "SYGROUP",
+    "stockCode": "5173"
+  },
+  {
+    "stockName": "SUNWAY REAL ESTATE INVESTMENT TRUST",
+    "stockTicker": "SUNREIT",
+    "stockCode": "5176"
+  },
+  {
+    "stockName": "MALAYSIA MARINE AND HEAVY ENGINEERING HOLDINGS BERHAD",
+    "stockTicker": "MHB",
+    "stockCode": "5186"
+  },
+  {
+    "stockName": "TAMBUN INDAH LAND BERHAD",
+    "stockTicker": "TAMBUN",
+    "stockCode": "5191"
+  },
+  {
+    "stockName": "MSM MALAYSIA HOLDINGS BERHAD",
+    "stockTicker": "MSM",
+    "stockCode": "5202"
+  },
+  {
+    "stockName": "SBC CORPORATION BERHAD",
+    "stockTicker": "SBCCORP",
+    "stockCode": "5207"
+  },
+  {
+    "stockName": "SUNWAY BERHAD",
+    "stockTicker": "SUNWAY",
+    "stockCode": "5211"
+  },
+  {
+    "stockName": "SENTORIA GROUP BERHAD",
+    "stockTicker": "SNTORIA",
+    "stockCode": "5213"
+  },
+  {
+    "stockName": "SAPURA ENERGY BERHAD",
+    "stockTicker": "VANTNRG",
+    "stockCode": "5218"
+  },
+  {
+    "stockName": "MENTIGA CORPORATION BERHAD",
+    "stockTicker": "MENTIGA",
+    "stockCode": "5223"
+  },
+  {
+    "stockName": "LEON FUAT BERHAD",
+    "stockTicker": "LEONFB",
+    "stockCode": "5232"
+  },
+  {
+    "stockName": "MATRIX CONCEPTS HOLDINGS BERHAD",
+    "stockTicker": "MATRIX",
+    "stockCode": "5236"
+  },
+  {
+    "stockName": "MPHB CAPITAL BERHAD",
+    "stockTicker": "MPHBCAP",
+    "stockCode": "5237"
+  },
+  {
+    "stockName": "TITIJAYA LAND BERHAD",
+    "stockTicker": "TITIJYA",
+    "stockCode": "5239"
+  },
+  {
+    "stockName": "SOLID AUTOMOTIVE BERHAD",
+    "stockTicker": "SOLID",
+    "stockCode": "5242"
+  },
+  {
+    "stockName": "WESTPORTS HOLDINGS BERHAD",
+    "stockTicker": "WPRTS",
+    "stockCode": "5246"
+  },
+  {
+    "stockName": "SASBADI HOLDINGS BERHAD",
+    "stockTicker": "SASBADI",
+    "stockCode": "5252"
+  },
+  {
+    "stockName": "REACH ENERGY BERHAD",
+    "stockTicker": "REACH",
+    "stockCode": "5256"
+  },
+  {
+    "stockName": "ONLY WORLD GROUP HOLDINGS BERHAD",
+    "stockTicker": "OWG",
+    "stockCode": "5260"
+  },
+  {
+    "stockName": "SUNWAY CONSTRUCTION GROUP BERHAD",
+    "stockTicker": "SUNCON",
+    "stockCode": "5263"
+  },
+  {
+    "stockName": "MALAKOFF CORPORATION BERHAD",
+    "stockTicker": "MALAKOF",
+    "stockCode": "5264"
+  },
+  {
+    "stockName": "XIN HWA HOLDINGS BERHAD",
+    "stockTicker": "XINHWA",
+    "stockCode": "5267"
+  },
+  {
+    "stockName": "RED SENA BERHAD",
+    "stockTicker": "RSENA",
+    "stockCode": "5270"
+  },
+  {
+    "stockName": "RANHILL UTILITIES BERHAD",
+    "stockTicker": "RANHILL",
+    "stockCode": "5272"
+  },
+  {
+    "stockName": "MYNEWS HOLDINGS BERHAD",
+    "stockTicker": "MYNEWS",
+    "stockCode": "5275"
+  },
+  {
+    "stockName": "RHONE MA HOLDINGS BERHAD",
+    "stockTicker": "RHONEMA",
+    "stockCode": "5278"
+  },
+  {
+    "stockName": "LOTTE CHEMICAL TITAN HOLDING BERHAD",
+    "stockTicker": "LCTITAN",
+    "stockCode": "5284"
+  },
+  {
+    "stockName": "SD GUTHRIE BERHAD",
+    "stockTicker": "SDG",
+    "stockCode": "5285"
+  },
+  {
+    "stockName": "MI TECHNOVATION BERHAD",
+    "stockTicker": "MI",
+    "stockCode": "5286"
+  },
+  {
+    "stockName": "SIME DARBY PROPERTY BERHAD",
+    "stockTicker": "SIMEPROP",
+    "stockCode": "5288"
+  },
+  {
+    "stockName": "TECHBOND GROUP BERHAD",
+    "stockTicker": "TECHBND",
+    "stockCode": "5289"
+  },
+  {
+    "stockName": "MR D.I.Y. GROUP (M) BERHAD",
+    "stockTicker": "MRDIY",
+    "stockCode": "5296"
+  },
+  {
+    "stockName": "OM HOLDINGS LIMITED",
+    "stockTicker": "OMH",
+    "stockCode": "5298"
+  },
+  {
+    "stockName": "YENHER HOLDINGS BERHAD",
+    "stockTicker": "YENHER",
+    "stockCode": "5300"
+  },
+  {
+    "stockName": "SWIFT HAULAGE BERHAD",
+    "stockTicker": "SWIFT",
+    "stockCode": "5303"
+  },
+  {
+    "stockName": "SENHENG NEW RETAIL BERHAD",
+    "stockTicker": "SENHENG",
+    "stockCode": "5305"
+  },
+  {
+    "stockName": "SENG FONG HOLDINGS BERHAD",
+    "stockTicker": "SENFONG",
+    "stockCode": "5308"
+  },
+  {
+    "stockName": "KUMPULAN KITACON BERHAD",
+    "stockTicker": "KITACON",
+    "stockCode": "5310"
+  },
+  {
+    "stockName": "RADIUM DEVELOPMENT BERHAD",
+    "stockTicker": "RADIUM",
+    "stockCode": "5313"
+  },
+  {
+    "stockName": "SKYWORLD DEVELOPMENT BERHAD",
+    "stockTicker": "SKYWLD",
+    "stockCode": "5315"
+  },
+  {
+    "stockName": "MST GOLF GROUP BERHAD",
+    "stockTicker": "MSTGOLF",
+    "stockCode": "5316"
+  },
+  {
+    "stockName": "MKH OIL PALM (EAST KALIMANTAN) BERHAD",
+    "stockTicker": "MKHOP",
+    "stockCode": "5319"
+  },
+  {
+    "stockName": "PROLINTAS INFRA BUSINESS TRUST",
+    "stockTicker": "PLINTAS",
+    "stockCode": "5320"
+  },
+  {
+    "stockName": "TENAGA NASIONAL BHD",
+    "stockTicker": "TENAGA",
+    "stockCode": "5347"
+  },
+  {
+    "stockName": "SHANGRI-LA HOTELS (MALAYSIA) BERHAD",
+    "stockTicker": "SHANG",
+    "stockCode": "5517"
+  },
+  {
+    "stockName": "OCB BERHAD",
+    "stockTicker": "OCB",
+    "stockCode": "5533"
+  },
+  {
+    "stockName": "MINHO (M) BERHAD",
+    "stockTicker": "MINHO",
+    "stockCode": "5576"
+  },
+  {
+    "stockName": "SOUTHERN STEEL BERHAD",
+    "stockTicker": "SSTEEL",
+    "stockCode": "5665"
+  },
+  {
+    "stockName": "MUHIBBAH ENGINEERING (M) BHD",
+    "stockTicker": "MUHIBAH",
+    "stockCode": "5703"
+  },
+  {
+    "stockName": "LBS BINA GROUP BERHAD",
+    "stockTicker": "LBS",
+    "stockCode": "5789"
+  },
+  {
+    "stockName": "ORIENTAL INTEREST BERHAD",
+    "stockTicker": "OIB",
+    "stockCode": "5827"
+  },
+  {
+    "stockName": "KUMPULAN PERANGSANG SELANGOR BERHAD",
+    "stockTicker": "KPS",
+    "stockCode": "5843"
+  },
+  {
+    "stockName": "KPJ HEALTHCARE BERHAD",
+    "stockTicker": "KPJ",
+    "stockCode": "5878"
+  },
+  {
+    "stockName": "MALAYSIA SMELTING CORPORATION BERHAD",
+    "stockTicker": "MSC",
+    "stockCode": "5916"
+  },
+  {
+    "stockName": "MBM RESOURCES BHD",
+    "stockTicker": "MBMR",
+    "stockCode": "5983"
+  },
+  {
+    "stockName": "MAXIS BERHAD",
+    "stockTicker": "MAXIS",
+    "stockCode": "6012"
+  },
+  {
+    "stockName": "SHL CONSOLIDATED BHD",
+    "stockTicker": "SHL",
+    "stockCode": "6017"
+  },
+  {
+    "stockName": "STAR MEDIA GROUP BERHAD",
+    "stockTicker": "STAR",
+    "stockCode": "6084"
+  },
+  {
+    "stockName": "MKH BERHAD",
+    "stockTicker": "MKH",
+    "stockCode": "6114"
+  },
+  {
+    "stockName": "SYARIKAT TAKAFUL MALAYSIA KELUARGA BERHAD",
+    "stockTicker": "TAKAFUL",
+    "stockCode": "6139"
+  },
+  {
+    "stockName": "METROD HOLDINGS BERHAD",
+    "stockTicker": "METROD",
+    "stockCode": "6149"
+  },
+  {
+    "stockName": "MALTON BERHAD",
+    "stockTicker": "MALTON",
+    "stockCode": "6181"
+  },
+  {
+    "stockName": "WMG HOLDINGS BERHAD",
+    "stockTicker": "BEDI",
+    "stockCode": "6378"
+  },
+  {
+    "stockName": "MNRB HOLDINGS BERHAD",
+    "stockTicker": "MNRB",
+    "stockCode": "6459"
+  },
+  {
+    "stockName": "KUMPULAN FIMA BERHAD",
+    "stockTicker": "KFIMA",
+    "stockCode": "6491"
+  },
+  {
+    "stockName": "SURIA CAPITAL HOLDINGS BERHAD",
+    "stockTicker": "SURIA",
+    "stockCode": "6521"
+  },
+  {
+    "stockName": "LEONG HUP INTERNATIONAL BERHAD",
+    "stockTicker": "LHI",
+    "stockCode": "6633"
+  },
+  {
+    "stockName": "YTL POWER INTERNATIONAL BHD",
+    "stockTicker": "YTLPOWR",
+    "stockCode": "6742"
+  },
+  {
+    "stockName": "PUNCAK NIAGA HOLDINGS BERHAD",
+    "stockTicker": "PUNCAK",
+    "stockCode": "6807"
+  },
+  {
+    "stockName": "KUB MALAYSIA BERHAD",
+    "stockTicker": "JAGCPTL",
+    "stockCode": "6874"
+  },
+  {
+    "stockName": "SUBUR TIASA HOLDINGS BERHAD",
+    "stockTicker": "SUBUR",
+    "stockCode": "6904"
+  },
+  {
+    "stockName": "KOBAY TECHNOLOGY BERHAD",
+    "stockTicker": "KOBAY",
+    "stockCode": "6971"
+  },
+  {
+    "stockName": "Y&G CORPORATION BHD",
+    "stockTicker": "Y&G",
+    "stockCode": "7003"
+  },
+  {
+    "stockName": "MCE HOLDINGS BERHAD",
+    "stockTicker": "MCEHLDG",
+    "stockCode": "7004"
+  },
+  {
+    "stockName": "RHONG KHEN INTERNATIONAL BERHAD",
+    "stockTicker": "RKI",
+    "stockCode": "7006"
+  },
+  {
+    "stockName": "PTT SYNERGY GROUP BERHAD",
+    "stockTicker": "PTT",
+    "stockCode": "7010"
+  },
+  {
+    "stockName": "YLI HOLDINGS BERHAD",
+    "stockTicker": "YLI",
+    "stockCode": "7014"
+  },
+  {
+    "stockName": "KOMARKCORP BERHAD",
+    "stockTicker": "KOMARK",
+    "stockCode": "7017"
+  },
+  {
+    "stockName": "WOODLANDOR HOLDINGS BHD",
+    "stockTicker": "WOODLAN",
+    "stockCode": "7025"
+  },
+  {
+    "stockName": "ZECON BERHAD",
+    "stockTicker": "ZECON",
+    "stockCode": "7028"
+  },
+  {
+    "stockName": "MASTER-PACK GROUP BERHAD",
+    "stockTicker": "MASTER",
+    "stockCode": "7029"
+  },
+  {
+    "stockName": "KUMPULAN H & L HIGH-TECH BERHAD",
+    "stockTicker": "HIGHTEC",
+    "stockCode": "7033"
+  },
+  {
+    "stockName": "THONG GUAN INDUSTRIES BERHAD",
+    "stockTicker": "TGUAN",
+    "stockCode": "7034"
+  },
+  {
+    "stockName": "XIN SYNERGY GROUP BERHAD",
+    "stockTicker": "XIN",
+    "stockCode": "7043"
+  },
+  {
+    "stockName": "SCOMI ENERGY SERVICES BHD",
+    "stockTicker": "SCOMIES",
+    "stockCode": "7045"
+  },
+  {
+    "stockName": "WONG ENGINEERING CORPORATION BERHAD",
+    "stockTicker": "WONG",
+    "stockCode": "7050"
+  },
+  {
+    "stockName": "SEE HUP CONSOLIDATED BERHAD",
+    "stockTicker": "SEEHUP",
+    "stockCode": "7053"
+  },
+  {
+    "stockName": "NEW HOONG FATT HOLDINGS BERHAD",
+    "stockTicker": "NHFATT",
+    "stockCode": "7060"
+  },
+  {
+    "stockName": "YONG TAI BERHAD",
+    "stockTicker": "YONGTAI",
+    "stockCode": "7066"
+  },
+  {
+    "stockName": "OCR GROUP BERHAD",
+    "stockTicker": "OCR",
+    "stockCode": "7071"
+  },
+  {
+    "stockName": "SEACERA GROUP BERHAD",
+    "stockTicker": "SEACERA",
+    "stockCode": "7073"
+  },
+  {
+    "stockName": "M & A EQUITY HOLDINGS BERHAD",
+    "stockTicker": "M&A",
+    "stockCode": "7082"
+  },
+  {
+    "stockName": "QL RESOURCES BERHAD",
+    "stockTicker": "QL",
+    "stockCode": "7084"
+  },
+  {
+    "stockName": "LTKM BERHAD",
+    "stockTicker": "LTKM",
+    "stockCode": "7085"
+  },
+  {
+    "stockName": "MAGNI-TECH INDUSTRIES BERHAD",
+    "stockTicker": "MAGNI",
+    "stockCode": "7087"
+  },
+  {
+    "stockName": "LII HEN INDUSTRIES BHD.",
+    "stockTicker": "LIIHEN",
+    "stockCode": "7089"
+  },
+  {
+    "stockName": "TA WIN HOLDINGS BERHAD",
+    "stockTicker": "TAWIN",
+    "stockCode": "7097"
+  },
+  {
+    "stockName": "MAYU GLOBAL GROUP BERHAD",
+    "stockTicker": "MAYU",
+    "stockCode": "7099"
+  },
+  {
+    "stockName": "SPRITZER BHD",
+    "stockTicker": "SPRITZER",
+    "stockCode": "7103"
+  },
+  {
+    "stockName": "SUPERMAX CORPORATION BERHAD",
+    "stockTicker": "SUPERMX",
+    "stockCode": "7106"
+  },
+  {
+    "stockName": "ORIENTAL FOOD INDUSTRIES HOLDINGS BERHAD",
+    "stockTicker": "OFI",
+    "stockCode": "7107"
+  },
+  {
+    "stockName": "TOP GLOVE CORPORATION BHD",
+    "stockTicker": "TOPGLOV",
+    "stockCode": "7113"
+  },
+  {
+    "stockName": "SKB SHUTTERS CORPORATION BERHAD",
+    "stockTicker": "SKBSHUT",
+    "stockCode": "7115"
+  },
+  {
+    "stockName": "XL HOLDINGS BERHAD",
+    "stockTicker": "XL",
+    "stockCode": "7121"
+  },
+  {
+    "stockName": "MAXLAND BERHAD",
+    "stockTicker": "MAXLAND",
+    "stockCode": "7123"
+  },
+  {
+    "stockName": "RENEUCO BERHAD",
+    "stockTicker": "RENEUCO",
+    "stockCode": "7130"
+  },
+  {
+    "stockName": "SMIS CORPORATION BERHAD",
+    "stockTicker": "SMISCOR",
+    "stockCode": "7132"
+  },
+  {
+    "stockName": "PWF CORPORATION BERHAD",
+    "stockTicker": "PWF",
+    "stockCode": "7134"
+  },
+  {
+    "stockName": "NICHE CAPITAL EMAS HOLDINGS BERHAD",
+    "stockTicker": "NICE",
+    "stockCode": "7139"
+  },
+  {
+    "stockName": "OKA CORPORATION BHD",
+    "stockTicker": "OKA",
+    "stockCode": "7140"
+  },
+  {
+    "stockName": "KOSSAN RUBBER INDUSTRIES BERHAD",
+    "stockTicker": "KOSSAN",
+    "stockCode": "7153"
+  },
+  {
+    "stockName": "SKP RESOURCES BHD",
+    "stockTicker": "SKPRES",
+    "stockCode": "7155"
+  },
+  {
+    "stockName": "KNM GROUP BERHAD",
+    "stockTicker": "KNM",
+    "stockCode": "7164"
+  },
+  {
+    "stockName": "LFE CORPORATION BERHAD",
+    "stockTicker": "LFECORP",
+    "stockCode": "7170"
+  },
+  {
+    "stockName": "Y.S.P. SOUTHEAST ASIA HOLDING BERHAD",
+    "stockTicker": "YSPSAH",
+    "stockCode": "7178"
+  },
+  {
+    "stockName": "LAGENDA PROPERTIES BERHAD",
+    "stockTicker": "LAGENDA",
+    "stockCode": "7179"
+  },
+  {
+    "stockName": "SERN KOU RESOURCES BERHAD",
+    "stockTicker": "SERNKOU",
+    "stockCode": "7180"
+  },
+  {
+    "stockName": "SWS CAPITAL BERHAD",
+    "stockTicker": "SWSCAP",
+    "stockCode": "7186"
+  },
+  {
+    "stockName": "TEK SENG HOLDINGS BERHAD",
+    "stockTicker": "TEKSENG",
+    "stockCode": "7200"
+  },
+  {
+    "stockName": "PROGRESSIVE IMPACT CORPORATION BERHAD",
+    "stockTicker": "PICORP",
+    "stockCode": "7201"
+  },
+  {
+    "stockName": "SUCCESS TRANSFORMER CORPORATION BERHAD",
+    "stockTicker": "SUCCESS",
+    "stockCode": "7207"
+  },
+  {
+    "stockName": "TAFI INDUSTRIES BERHAD",
+    "stockTicker": "TAFI",
+    "stockCode": "7211"
+  },
+  {
+    "stockName": "NI HSIN GROUP BERHAD",
+    "stockTicker": "NIHSIN",
+    "stockCode": "7215"
+  },
+  {
+    "stockName": "MINETECH RESOURCES BERHAD",
+    "stockTicker": "AIZO",
+    "stockCode": "7219"
+  },
+  {
+    "stockName": "T7 GLOBAL BERHAD",
+    "stockTicker": "T7GLOBAL",
+    "stockCode": "7228"
+  },
+  {
+    "stockName": "TOMEI CONSOLIDATED BERHAD",
+    "stockTicker": "TOMEI",
+    "stockCode": "7230"
+  },
+  {
+    "stockName": "RESINTECH BERHAD",
+    "stockTicker": "RESINTC",
+    "stockCode": "7232"
+  },
+  {
+    "stockName": "MESB BERHAD",
+    "stockTicker": "LOTUSCIR",
+    "stockCode": "7234"
+  },
+  {
+    "stockName": "SUPERLON HOLDINGS BERHAD",
+    "stockTicker": "SUPERLN",
+    "stockCode": "7235"
+  },
+  {
+    "stockName": "SCANWOLF CORPORATION BERHAD",
+    "stockTicker": "SCNWOLF",
+    "stockCode": "7239"
+  },
+  {
+    "stockName": "NEXTGREEN GLOBAL BERHAD",
+    "stockTicker": "NGGB",
+    "stockCode": "7241"
+  },
+  {
+    "stockName": "MAGMA GROUP BERHAD",
+    "stockTicker": "MAGMA",
+    "stockCode": "7243"
+  },
+  {
+    "stockName": "SIGNATURE INTERNATIONAL BERHAD",
+    "stockTicker": "SIGN",
+    "stockCode": "7246"
+  },
+  {
+    "stockName": "SCGM BHD",
+    "stockTicker": "SCGM",
+    "stockCode": "7247"
+  },
+  {
+    "stockName": "SLP RESOURCES BERHAD",
+    "stockTicker": "SLP",
+    "stockCode": "7248"
+  },
+  {
+    "stockName": "TEO SENG CAPITAL BERHAD",
+    "stockTicker": "TEOSENG",
+    "stockCode": "7252"
+  },
+  {
+    "stockName": "TOMYPAK HOLDINGS BERHAD",
+    "stockTicker": "TOMYPAK",
+    "stockCode": "7285"
+  },
+  {
+    "stockName": "YINSON HOLDINGS BERHAD",
+    "stockTicker": "YINSON",
+    "stockCode": "7293"
+  },
+  {
+    "stockName": "TIEN WAH PRESS HOLDINGS BERHAD",
+    "stockTicker": "TIENWAH",
+    "stockCode": "7374"
+  },
+  {
+    "stockName": "SHH RESOURCES HOLDINGS BERHAD",
+    "stockTicker": "SHH",
+    "stockCode": "7412"
+  },
+  {
+    "stockName": "TECK GUAN PERDANA BERHAD",
+    "stockTicker": "TECGUAN",
+    "stockCode": "7439"
+  },
+  {
+    "stockName": "RALCO CORPORATION BERHAD",
+    "stockTicker": "RALCO",
+    "stockCode": "7498"
+  },
+  {
+    "stockName": "QUALITY CONCRETE HOLDINGS BERHAD",
+    "stockTicker": "QUALITY",
+    "stockCode": "7544"
+  },
+  {
+    "stockName": "MGB BERHAD",
+    "stockTicker": "MGB",
+    "stockCode": "7595"
+  },
+  {
+    "stockName": "MAGNA PRIMA BERHAD",
+    "stockTicker": "MAGNA",
+    "stockCode": "7617"
+  },
+  {
+    "stockName": "MYTECH GROUP BERHAD",
+    "stockTicker": "MYTECH",
+    "stockCode": "7692"
+  },
+  {
+    "stockName": "RAPID SYNERGY BERHAD",
+    "stockTicker": "RAPID",
+    "stockCode": "7765"
+  },
+  {
+    "stockName": "SAPURA INDUSTRIAL BERHAD",
+    "stockTicker": "SAPIND",
+    "stockCode": "7811"
+  },
+  {
+    "stockName": "TIMBERWELL BERHAD",
+    "stockTicker": "TIMWELL",
+    "stockCode": "7854"
+  },
+  {
+    "stockName": "THRIVEN GLOBAL BERHAD",
+    "stockTicker": "THRIVEN",
+    "stockCode": "7889"
+  },
+  {
+    "stockName": "MILUX CORPORATION BERHAD",
+    "stockTicker": "MILUX",
+    "stockCode": "7935"
+  },
+  {
+    "stockName": "MPIRE GLOBAL BERHAD",
+    "stockTicker": "GREENTEC",
+    "stockCode": "7943"
+  },
+  {
+    "stockName": "LEE SWEE KIAT GROUP BERHAD",
+    "stockTicker": "LEESK",
+    "stockCode": "8079"
+  },
+  {
+    "stockName": "SCIENTEX PACKAGING (AYER KEROH) BERHAD",
+    "stockTicker": "SCIPACK",
+    "stockCode": "8125"
+  },
+  {
+    "stockName": "MAJUPERAK HOLDINGS BERHAD",
+    "stockTicker": "MJPERAK",
+    "stockCode": "8141"
+  },
+  {
+    "stockName": "MERCURY INDUSTRIES BERHAD",
+    "stockTicker": "MERCURY",
+    "stockCode": "8192"
+  },
+  {
+    "stockName": "PUBLIC PACKAGES HOLDINGS BHD",
+    "stockTicker": "PPHB",
+    "stockCode": "8273"
+  },
+  {
+    "stockName": "LOTUS KFM BERHAD",
+    "stockTicker": "LOTUS",
+    "stockCode": "8303"
+  },
+  {
+    "stockName": "KYM HOLDINGS BERHAD",
+    "stockTicker": "KYM",
+    "stockCode": "8362"
+  },
+  {
+    "stockName": "TIONG NAM LOGISTICS HOLDINGS BERHAD",
+    "stockTicker": "TNLOGIS",
+    "stockCode": "8397"
+  },
+  {
+    "stockName": "LION POSIM BERHAD",
+    "stockTicker": "LIONPSIM",
+    "stockCode": "8486"
+  },
+  {
+    "stockName": "LBI CAPITAL BERHAD",
+    "stockTicker": "LBICAP",
+    "stockCode": "8494"
+  },
+  {
+    "stockName": "TALIWORKS CORPORATION BERHAD",
+    "stockTicker": "TALIWRK",
+    "stockCode": "8524"
+  },
+  {
+    "stockName": "SALCON BERHAD",
+    "stockTicker": "SALCON",
+    "stockCode": "8567"
+  },
+  {
+    "stockName": "MAH SING GROUP BERHAD",
+    "stockTicker": "MAHSING",
+    "stockCode": "8583"
+  },
+  {
+    "stockName": "LPI CAPITAL BHD",
+    "stockTicker": "LPI",
+    "stockCode": "8621"
+  },
+  {
+    "stockName": "S P SETIA BERHAD",
+    "stockTicker": "SPSETIA",
+    "stockCode": "8664"
+  },
+  {
+    "stockName": "TEXCHEM RESOURCES BERHAD",
+    "stockTicker": "TEXCHEM",
+    "stockCode": "8702"
+  },
+  {
+    "stockName": "S & F CAPITAL BERHAD",
+    "stockTicker": "S&FCAP",
+    "stockCode": "8745"
+  },
+  {
+    "stockName": "MK LAND HOLDINGS BERHAD",
+    "stockTicker": "MKLAND",
+    "stockCode": "8893"
+  },
+  {
+    "stockName": "TECHBASE INDUSTRIES BERHAD",
+    "stockTicker": "TECHBASE",
+    "stockCode": "8966"
+  },
+  {
+    "stockName": "OMESTI BERHAD",
+    "stockTicker": "OMESTI",
+    "stockCode": "9008"
+  },
+  {
+    "stockName": "THETA EDGE BERHAD",
+    "stockTicker": "THETA",
+    "stockCode": "9075"
+  },
+  {
+    "stockName": "KUMPULAN JETSON BERHAD",
+    "stockTicker": "JETSON",
+    "stockCode": "9083"
+  },
+  {
+    "stockName": "KPS CONSORTIUM BERHAD",
+    "stockTicker": "KPSCB",
+    "stockCode": "9121"
+  },
+  {
+    "stockName": "LYSAGHT GALVANIZED STEEL BERHAD",
+    "stockTicker": "LYSAGHT",
+    "stockCode": "9199"
+  },
+  {
+    "stockName": "SARAWAK CONSOLIDATED INDUSTRIES BERHAD",
+    "stockTicker": "SCIB",
+    "stockCode": "9237"
+  },
+  {
+    "stockName": "RCE CAPITAL BERHAD",
+    "stockTicker": "RCECAP",
+    "stockCode": "9296"
+  },
+  {
+    "stockName": "LB ALUMINIUM BERHAD",
+    "stockTicker": "LBALUM",
+    "stockCode": "9326"
+  },
+  {
+    "stockName": "TEO GUAN LEE CORPORATION BERHAD",
+    "stockTicker": "TGL",
+    "stockCode": "9369"
+  },
+  {
+    "stockName": "LAY HONG BERHAD",
+    "stockTicker": "LAYHONG",
+    "stockCode": "9385"
+  },
+  {
+    "stockName": "SENI JAYA CORPORATION BERHAD",
+    "stockTicker": "SJC",
+    "stockCode": "9431"
+  },
+  {
+    "stockName": "MULTI-USAGE HOLDINGS BERHAD",
+    "stockTicker": "MUH",
+    "stockCode": "9539"
+  },
+  {
+    "stockName": "MITRAJAYA HOLDINGS BERHAD",
+    "stockTicker": "MITRA",
+    "stockCode": "9571"
+  },
+  {
+    "stockName": "LEBTECH BERHAD",
+    "stockTicker": "LEBTECH",
+    "stockCode": "9628"
+  },
+  {
+    "stockName": "WCT HOLDINGS BERHAD",
+    "stockTicker": "WCT",
+    "stockCode": "9679"
+  },
+  {
+    "stockName": "SYCAL VENTURES BERHAD",
+    "stockTicker": "SYCAL",
+    "stockCode": "9717"
+  },
+  {
+    "stockName": "ROHAS TECNIC BERHAD",
+    "stockTicker": "ROHAS",
+    "stockCode": "9741"
+  },
+  {
+    "stockName": "SINMAH CAPITAL BERHAD",
+    "stockTicker": "RSSB",
+    "stockCode": "9776"
+  },
+  {
+    "stockName": "SEG INTERNATIONAL BHD",
+    "stockTicker": "SEG",
+    "stockCode": "9792"
+  },
+  {
+    "stockName": "SAM ENGINEERING & EQUIPMENT (M) BERHAD",
+    "stockTicker": "SAM",
+    "stockCode": "9822"
+  },
+  {
+    "stockName": "LEADER STEEL HOLDINGS BERHAD",
+    "stockTicker": "LSTEEL",
+    "stockCode": "9881"
+  },
+  {
+    "stockName": "REX INDUSTRY BERHAD",
+    "stockTicker": "ETA",
+    "stockCode": "9946"
+  },
+  {
+    "stockName": "RGT BERHAD",
+    "stockTicker": "RGTBHD",
+    "stockCode": "9954"
+  }
+]
